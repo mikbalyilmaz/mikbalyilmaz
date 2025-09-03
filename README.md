@@ -59,4 +59,4 @@ You are welcome to explore my GitHub profile for projects, research notes, and o
 
 ---
 
-© 2025 Mikbal Yılmaz. All Rights Reserved.
+© 2025 mikbalyilmaz/sezinpersonal. All Rights Reserved.
