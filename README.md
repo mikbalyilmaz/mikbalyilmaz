@@ -1,4 +1,4 @@
-# © mikbalyilmaz / sezinpersonal  
+# MUHAMMED İKBAL YILMAZ
 
 ## About Me  
 I graduated in June 2024 with a degree in Econometrics from Ankara Hacı Bayram Veli University.  
