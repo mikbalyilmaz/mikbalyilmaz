@@ -16,8 +16,14 @@ I presented at various conferences, representing my university and gaining initi
 ---
 
 ### Skills and Tools
-- Programming: Python (mid level), R (mid level), MATLAB (beginner), Stata (mid level)
-- Data analysis: Econometrics, forecasting, statistical inference
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-1E90FF?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF7F0E?style=for-the-badge&logo=mathworks&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![Econometrics](https://img.shields.io/badge/Econometrics-green?style=for-the-badge)
+
 
 ---
 
