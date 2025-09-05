@@ -10,7 +10,7 @@ My mathematical background covers an introductory level of university mathematic
 During my undergraduate studies, I presented at several conferences, representing my university and gaining initial academic experience.  
 I am currently preparing for graduate-level research and continuously improving my knowledge in statistics and econometrics.  
 
-You are welcome to explore my GitHub profile for projects, research notes, and ongoing work.  
+You are welcome to explore my GitHub profile for projects, research notes, and ongoing work. 
 
 ---
 
