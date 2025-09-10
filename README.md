@@ -1,4 +1,4 @@
-# MUHAMMED İKBAL YILMAZ  🇹🇷
+# 🇹🇷 MUHAMMED İKBAL YILMAZ
 
 ---
 
