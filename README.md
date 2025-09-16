@@ -15,6 +15,7 @@ I graduated in June 2024 with an undergraduate degree in Econometrics from Ankar
   <img src="https://img.shields.io/badge/MATLAB-FF7F0E?style=for-the-badge&logo=mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-00599C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Econometrics-228B22?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Academic%20Research-8A2BE2?style=for-the-badge"/>
 </p>  
 
 ---
