@@ -20,19 +20,6 @@ I graduated in June 2024 with an undergraduate degree in Econometrics from Ankar
 
 ---
 
-## GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikbalyilmaz&show_icons=true&theme=graywhite" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikbalyilmaz&theme=graywhite" height="160"/>
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikbalyilmaz&layout=compact&theme=graywhite" height="140"/>
-</p>  
-
----
-
 ## Contact  
 
 - Email: **myucanlar@gmail.com**  
