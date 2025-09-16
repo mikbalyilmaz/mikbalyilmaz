@@ -4,11 +4,7 @@
 
 ## About Me  
 I graduated in June 2024 with a undergrad degree in Econometrics from Ankara Hacı Bayram Veli University.  
-My focus areas include **Financial Econometrics, Econometric Theory, Statistical Analysis, Data Analysis, Time Series Analysis, and Linear Algebra**.  
-My mathematical background covers an introductory level of university mathematics.  
-
-During my undergraduate studies, I presented at several conferences, representing my university and gaining initial academic experience.  
-I am currently preparing for graduate-level research and continuously improving my knowledge in statistics and econometrics.  
+My focus areas include **Financial Econometrics, Econometric Theory, Probability& Statistics, Statistical Analysis, Data Analysis, Time Series Analysis, etc.**. My mathematical background covers an introductory level of university mathematics. During my undergraduate studies, I presented at several conferences, representing my university and gaining initial academic experience. I am currently preparing for graduate-level research and continuously improving my knowledge in statistics and econometrics.  
 
 You are welcome to explore my GitHub profile for projects, research notes, and ongoing work. 
 
