@@ -20,16 +20,6 @@ I graduated in June 2024 with an undergraduate degree in Econometrics from Ankar
 
 ---
 
-
-## Selected Projects  
-
-- **Time Series Forecasting Models** – Comparative study of ARIMA, GARCH, and LSTM approaches on financial datasets.  
-- **Econometric Applications** – Regression analysis, panel data models, and causality testing.  
-- **Machine Learning Case Studies** – Predictive modeling with Python, focusing on classification and regression tasks.  
-- **Research Notes** – Summaries and replications of published papers in econometrics and statistics.  
-
----
-
 ## GitHub Analytics  
 
 <p align="center">
