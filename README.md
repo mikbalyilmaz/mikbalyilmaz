@@ -1,13 +1,3 @@
-# 🇹🇷 MUHAMMED İKBAL YILMAZ
-
----
-
-I graduated in June 2024 with an undergraduate degree in Econometrics from Ankara Hacı Bayram Veli University, where I focused on Financial Econometrics, Econometric Theory, Probability and Statistics, Statistical Analysis, Data Analysis, and Time Series Analysis. My academic background also includes an introductory level of university mathematics, which supports my work in quantitative fields. During my undergraduate studies, I presented at several conferences, gaining valuable academic experience while representing my university. My research interests span mathematics and linear algebra, statistical inference, econometric modeling, applied data science, time series forecasting, and machine learning methods for prediction and classification. I am currently preparing for graduate-level research and actively improving my knowledge in statistics and econometrics, while sharing projects, research notes, and ongoing work on my GitHub profile.
-
----
-
-## Skills and Tools  
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
@@ -21,9 +11,15 @@ I graduated in June 2024 with an undergraduate degree in Econometrics from Ankar
   <img src="https://img.shields.io/badge/SPSS-FF4500?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
-  
+
+# 🇹🇷 MUHAMMED İKBAL YILMAZ
 
 ---
+
+I graduated in June 2024 with an undergraduate degree in Econometrics from Ankara Hacı Bayram Veli University, where I focused on Financial Econometrics, Econometric Theory, Probability and Statistics, Statistical Analysis, Data Analysis, and Time Series Analysis. My academic background also includes an introductory level of university mathematics, which supports my work in quantitative fields. During my undergraduate studies, I presented at several conferences, gaining valuable academic experience while representing my university. My research interests span mathematics and linear algebra, statistical inference, econometric modeling, applied data science, time series forecasting, and machine learning methods for prediction and classification. I am currently preparing for graduate-level research and actively improving my knowledge in statistics and econometrics, while sharing projects, research notes, and ongoing work on my GitHub profile.
+
+---
+
 
 ## Selected Projects  
 
