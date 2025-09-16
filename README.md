@@ -3,7 +3,7 @@
 ---
 
 ## About Me  
-I graduated in June 2024 with a degree in Econometrics from Ankara Hacı Bayram Veli University.  
+I graduated in June 2024 with a undergrad degree in Econometrics from Ankara Hacı Bayram Veli University.  
 My focus areas include **Financial Econometrics, Econometric Theory, Statistical Analysis, Data Analysis, Time Series Analysis, and Linear Algebra**.  
 My mathematical background covers an introductory level of university mathematics.  
 
