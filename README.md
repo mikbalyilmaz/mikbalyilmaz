@@ -2,7 +2,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Stata-1E90FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MATLAB-FF7F0E?style=for-the-badge&logo=mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-00599C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Econometrics-228B22?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Academic%20Research-8A2BE2?style=for-the-badge"/>
