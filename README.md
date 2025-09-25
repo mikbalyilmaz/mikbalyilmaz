@@ -24,7 +24,6 @@ I graduated in June 2024 with an undergraduate degree in Econometrics from Ankar
 - Email: **myucanlar@gmail.com**  
 - Secondary Email: **mikbalyilmaz@gmx.com**  
 - LinkedIn: [Muhammed Ikbal Yılmaz](https://www.linkedin.com/in/muhammed-ikbal-yilmaz-36622a276)  
-- Twitter/X: [@mamidinkylmz](https://x.com/mamidinkylmz)  
 
 ---
 
