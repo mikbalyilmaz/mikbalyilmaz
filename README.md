@@ -13,10 +13,8 @@
 
 # 🇹🇷 MUHAMMED İKBAL YILMAZ
 
----
 I graduated in June 2024 with a degree in Econometrics from Ankara Hacı Bayram Veli University, focusing on financial econometrics, statistics, and time series analysis. My interests include econometric modeling, data science, forecasting, and machine learning. I am preparing for graduate research while sharing projects on GitHub.
 
----
 
 ## Contact  
 
