@@ -52,16 +52,19 @@ The main purpose of this repository is:
 - To build technical and methodological discipline  
 - To gradually move from applied exercises to more rigorous econometric research  
 
-## Academic and Research Experience (Undergraduate Level)
+## Academic and Research Experience
 
-- TÜBİTAK 2209-A Project (2023–2024)  
-  "Brand Preference, Brand Loyalty and Brand Trust: An Applied Statistical Study"
+- **TÜBİTAK 2209-A Project (2023–2024)**  
+  *Brand Preference, Brand Loyalty and Brand Trust: An Applied Statistical Study*  
+  📄 [Project Report (PDF)](assets/pdfs/TUBITAK-Sonuc-Raporu.pdf)
 
-- UYIK 2024 Conference Paper  
-  "Statistical analysis of brand perception among university students"
+- **UYIK 2024 Conference Paper**  
+  *Statistical analysis of brand perception among university students*  
+  📄 [Paper (PDF)](assets/pdfs/UYIK-2024-Paper.pdf)
 
-- IDSSC 2024 Conference Presentation and Paper  
-  "Classification of Brand Perception Using Random Forest"
+- **IDSSC 2024 Conference Presentation & Paper**  
+  *Classification of Brand Perception Using Random Forest*  
+  🎤 [Presentation (PDF)](assets/pdfs/IDSSC-2024-Presentation.pdf) · 📄 [Paper (PDF)](assets/pdfs/IDSSC-2024-Paper.pdf)
 
 These studies combine:
 - Survey data analysis  
