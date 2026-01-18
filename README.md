@@ -85,12 +85,6 @@ To enter a research-oriented Master's program in Economics/Econometrics and buil
 - A solid econometric methodology profile  
 - Research experience under academic supervision  
 
-## Personal Note
-
-"Like the sunshine, our samples — imperfect, noisy, but informative."
-
-(This line will be updated periodically with short notes or quotations.)
-
 ## Contact
 
 <p align="center">
