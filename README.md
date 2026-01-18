@@ -9,6 +9,13 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
+<div align="left">
+
+### 📦 Now Playing
+🎵 [**Suzanne — Leonard Cohen**](https://www.youtube.com/results?search_query=leonard+cohen+suzanne)
+
+</div>
+
 # Muhammed İkbal Yılmaz
 
 B.Sc. in Econometrics, Ankara Hacı Bayram Veli University (2024)
