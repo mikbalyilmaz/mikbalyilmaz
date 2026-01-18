@@ -22,16 +22,12 @@ I am an econometrics graduate preparing for research-oriented graduate studies, 
 
 My current academic direction is focused on building a **strong methodological and mathematical foundation** for graduate-level econometrics.
 
----
-
 ## Current Academic Focus
 
 - Mathematical foundations: calculus (Apostol), probability, mathematical statistics  
 - Time series modeling: ARX structures, rolling window estimation, basic nonlinear specifications  
 - Applied machine learning: classification methods, model comparison, overfitting and regularization intuition  
 - Econometric interpretation of statistical learning methods  
-
----
 
 ## About This Repository
 
@@ -48,8 +44,6 @@ The main purpose of this repository is:
 - To document the learning process  
 - To build technical and methodological discipline  
 - To gradually move from applied exercises to more rigorous econometric research  
-
----
 
 ## Academic and Research Experience (Undergraduate Level)
 
@@ -68,16 +62,12 @@ These studies combine:
 - Introductory machine learning techniques  
 - An econometric interpretation perspective  
 
----
-
 ## Tools and Technical Stack
 
 - Python (pandas, numpy, scikit-learn, matplotlib)  
 - R, Stata, SPSS  
 - LaTeX  
 - Jupyter Notebook  
-
----
 
 ## Short-Term Academic Objective
 
@@ -88,15 +78,11 @@ To enter a research-oriented Master's program in Economics/Econometrics and buil
 - A solid econometric methodology profile  
 - Research experience under academic supervision  
 
----
-
 ## Personal Note
 
 "Like the sunshine, our samples — imperfect, noisy, but informative."
 
 (This line will be updated periodically with short notes or quotations.)
-
----
 
 ## Contact
 
