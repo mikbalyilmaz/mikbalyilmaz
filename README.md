@@ -11,7 +11,7 @@
 
 <div align="left">
 
-### 📦 Now Playing
+### Chosen from the list today;
 🎵 [**Suzanne — Leonard Cohen**](https://www.youtube.com/results?search_query=leonard+cohen+suzanne)
 
 </div>
