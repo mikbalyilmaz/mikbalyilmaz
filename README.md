@@ -12,7 +12,7 @@
 <div align="left">
 
 ### Chosen from the list today;
-🎵 [**Oy Asiye KV**]([https://www.youtube.com/watch?v=mmCnQDUSO4I&list=RDmmCnQDUSO4I&start_radio=1])
+🎵 [**Oy Asiye KV**](<https://www.youtube.com/watch?v=mmCnQDUSO4I&list=RDmmCnQDUSO4I&start_radio=1>)
 
 </div>
 
