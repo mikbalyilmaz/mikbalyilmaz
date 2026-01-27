@@ -71,10 +71,9 @@ These studies combine:
 
 ## Tools and Technical Stack
 
-- Python (pandas, numpy, scikit-learn, matplotlib)  
-- R, Stata, SPSS  
-- LaTeX  
-- Jupyter Notebook  
+- Python (jupyter-lab, usually)  
+- R (also generally), Stata, SPSS, etc.
+- LaTeX, etc.
 
 ## Short-Term Academic Objective
 
