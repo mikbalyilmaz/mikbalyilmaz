@@ -12,79 +12,40 @@
 <div align="left">
 
 ### Chosen from the list today;
-🎵 [**Moondog - Bird's Lament**](https://www.youtube.com/watch?v=RW8SBwGNcF8&list=RDRW8SBwGNcF8&start_radio=1)
+<a href="https://www.youtube.com/watch?v=RW8SBwGNcF8&list=RDRW8SBwGNcF8&start_radio=1">
+  <img src="https://img.youtube.com/vi/RW8SBwGNcF8/hqdefault.jpg" width="320" alt="Moondog - Bird's Lament"/>
+</a><br/>
+
+🎵 <a href="https://www.youtube.com/watch?v=RW8SBwGNcF8&list=RDRW8SBwGNcF8&start_radio=1"><b>Moondog - Bird's Lament</b></a>
 
 </div>
 
 # Muhammed İkbal Yılmaz
 
-B.Sc. in Econometrics, Ankara Hacı Bayram Veli University (2024)
+B.Sc. Econometrics — Ankara Hacı Bayram Veli University (2024)
 
-I am an econometrics graduate preparing for research-oriented graduate studies, with primary interests in:
+I’m preparing for research-oriented graduate studies. My main interests:
 
-- Econometrics and statistical modeling  
+- Econometrics & statistical modeling  
 - Time series analysis and forecasting  
-- Applied machine learning from an econometric perspective  
-- High-dimensional and nonlinear model structures  
+- Applied machine learning (econometric perspective)  
+- Nonlinear and high-dimensional models  
 
-My current academic direction is focused on building a **strong methodological and mathematical foundation** for graduate-level econometrics.
+## What you’ll find here;
 
-## Current Academic Focus
+This profile is a workspace for learning, replication, and small projects as I build a stronger methodological foundation for graduate-level econometrics.
 
-- Mathematical foundations: calculus (Apostol), probability, mathematical statistics  
-- Time series modeling: ARX structures, rolling window estimation, basic nonlinear specifications  
-- Applied machine learning: classification methods, model comparison, overfitting and regularization intuition  
-- Econometric interpretation of statistical learning methods  
+## Experience;
 
-## About This Repository
+- **TÜBİTAK 2209-A (2023–2024)** — *Brand Preference, Loyalty & Trust: Applied Statistical Study*  
+- **UYIK 2024** — *Statistical analysis of brand perception among university students*  
+- **IDSSC 2024** — *Classification of Brand Perception Using Random Forest*  
 
-This GitHub profile is **not** intended to present finished or advanced research work.
+## Tools;
 
-All projects here are based on:
-- Undergraduate-level training  
-- Self-study and methodological practice  
-- Exploratory implementations and replications  
+Python (Jupyter), R, Stata, SPSS, LaTeX (Note: It usually changes)
 
-These works should be considered as **preparatory studies and research previews** for future Master’s and PhD-level work.
-
-The main purpose of this repository is:
-- To document the learning process  
-- To build technical and methodological discipline  
-- To gradually move from applied exercises to more rigorous econometric research  
-
-## Academic and Research Experience
-
-- **TÜBİTAK 2209-A Project (2023–2024)**  
-  *Brand Preference, Brand Loyalty and Brand Trust: An Applied Statistical Study*  
-
-- **UYIK 2024 Conference Paper**  
-  *Statistical analysis of brand perception among university students*  
-
-- **IDSSC 2024 Conference Presentation & Paper**  
-  *Classification of Brand Perception Using Random Forest*  
-
-These studies combine:
-- Survey data analysis  
-- Classical statistical methods  
-- Introductory machine learning techniques  
-- An econometric interpretation perspective  
-
-## Tools and Technical Stack
-
-- Python (jupyter-lab, usually)  
-- R (also generally), Stata, SPSS, etc.
-- LaTeX, etc.
-
-## Short-Term Academic Objective
-
-To enter a research-oriented Master's program in Economics/Econometrics and build:
-
-- A rigorous theoretical background  
-- Stronger mathematical maturity  
-- A solid econometric methodology profile  
-- Research experience under academic supervision  
-
-## Contact
+## Contact;
 
 <p align="center">
   <a href="mailto:myucanlar@gmail.com">
@@ -92,11 +53,6 @@ To enter a research-oriented Master's program in Economics/Econometrics and buil
   </a>
 </p>
 
-Email: myucanlar@gmail.com  
-Secondary: mikbalyilmaz@gmx.com  
-LinkedIn: https://www.linkedin.com/in/muhammed-ikbal-yilmaz-36622a276
-
----
-
-© 2026 Muhammed İkbal Yılmaz  
-This profile documents a learning and preparation process.
+- Email: myucanlar@gmail.com  
+- Secondary: mikbalyilmaz@gmx.com  
+- LinkedIn: https://www.linkedin.com/in/muhammed-ikbal-yilmaz-36622a276
