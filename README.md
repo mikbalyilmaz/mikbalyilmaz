@@ -12,14 +12,14 @@
 <div align="left">
 
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=1vb7fZTmtN0&list=PLOP8MwvFE7nOrHPKrXZhHIYk0qHUoKmJV">
-  <img src="https://img.youtube.com/vi/1vb7fZTmtN0/hqdefault.jpg" width="320" alt="Dede Efendi - Hüzzam Mevlevi Ayini - Hüzzam Peşrev (1. Hane)"/>
-</a><br/>
-
-🎵 <a href="https://www.youtube.com/watch?v=1vb7fZTmtN0&list=PLOP8MwvFE7nOrHPKrXZhHIYk0qHUoKmJV">
-  <b>Dede Efendi — Hüzzam Mevlevi Ayini (Hüzzam Peşrev · 1. Hane)</b>
+<a href="https://www.youtube.com/watch?v=71Gt46aX9Z4&list=LL&index=13">
+  <img src="https://img.youtube.com/vi/71Gt46aX9Z4/hqdefault.jpg" width="320" alt="Gary B.B. Coleman - The Sky is Crying"/>
 </a>
-
+<br/>
+🎵
+<a href="https://www.youtube.com/watch?v=71Gt46aX9Z4&list=LL&index=13">
+  <b>Gary B.B. Coleman — The Sky is Crying</b>
+</a>
 </div>
 
 # Muhammed İkbal Yılmaz
