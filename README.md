@@ -12,13 +12,13 @@
 <div align="left">
 
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=71Gt46aX9Z4&list=LL&index=13">
-  <img src="https://img.youtube.com/vi/71Gt46aX9Z4/hqdefault.jpg" width="320" alt="Gary B.B. Coleman - The Sky is Crying"/>
+<a href="https://www.youtube.com/watch?v=gUvSg4_SP0E&list=RDGMEM6CZm14o9sc-Q22TIneLI8gVMgUvSg4_SP0E&start_radio=1">
+  <img src="https://img.youtube.com/vi/gUvSg4_SP0E/hqdefault.jpg" width="320" alt="mark murphy - the windmills of your mind"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=71Gt46aX9Z4&list=LL&index=13">
-  <b>Gary B.B. Coleman — The Sky is Crying</b>
+<a href="https://www.youtube.com/watch?v=gUvSg4_SP0E&list=RDGMEM6CZm14o9sc-Q22TIneLI8gVMgUvSg4_SP0E&start_radio=1">
+  <b>mark murphy - the windmills of your mind</b>
 </a>
 </div>
 
