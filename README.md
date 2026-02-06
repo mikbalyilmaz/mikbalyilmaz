@@ -12,13 +12,13 @@
 <div align="left">
 
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=20ZHeLhsQ14&list=LL&index=20">
-  <img src="https://img.youtube.com/vi/20ZHeLhsQ14/hqdefault.jpg" width="320" alt="Eddie Jefferson - So What"/>
+<a href="https://www.youtube.com/watch?v=K_3KBDFtxmI&list=RDK_3KBDFtxmI&start_radio=1">
+  <img src="https://img.youtube.com/vi/K_3KBDFtxmI/hqdefault.jpg" width="320" alt="KV Halil İbrahim"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=20ZHeLhsQ14&list=LL&index=20">
-  <b>Eddie Jefferson - So What</b>
+<a href="https://www.youtube.com/watch?v=K_3KBDFtxmI&list=RDK_3KBDFtxmI&start_radio=1">
+  <b>KV Halil İbrahim</b>
 </a>
 </div>
 
