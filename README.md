@@ -10,15 +10,15 @@
 </p>
 
 <div align="left">
-
+  
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=K_3KBDFtxmI&list=RDK_3KBDFtxmI&start_radio=1">
-  <img src="https://img.youtube.com/vi/K_3KBDFtxmI/hqdefault.jpg" width="320" alt="KV Halil İbrahim"/>
+<a href="https://www.youtube.com/watch?v=l4sS9bn8OJw">
+  <img src="https://img.youtube.com/vi/l4sS9bn8OJw/hqdefault.jpg" width="320" alt="Arap Şükrü - Sigarayı Bıraktım"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=K_3KBDFtxmI&list=RDK_3KBDFtxmI&start_radio=1">
-  <b>KV Halil İbrahim</b>
+<a href="https://www.youtube.com/watch?v=l4sS9bn8OJw">
+  <b>Arap Şükrü - Sigarayı Bıraktım</b>
 </a>
 </div>
 
