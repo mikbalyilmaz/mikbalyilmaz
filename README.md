@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=l4sS9bn8OJw">
-  <img src="https://img.youtube.com/vi/l4sS9bn8OJw/hqdefault.jpg" width="320" alt="Arap Şükrü - Sigarayı Bıraktım"/>
+<a href="https://www.youtube.com/watch?v=7gphiFVVtUI&list=RD7gphiFVVtUI&start_radio=1">
+  <img src="https://img.youtube.com/vi/7gphiFVVtUI/hqdefault.jpg" width="320" alt="Estas Tonne - The Song of the Golden Dragon"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=l4sS9bn8OJw">
-  <b>Arap Şükrü - Sigarayı Bıraktım</b>
+<a href="https://www.youtube.com/watch?v=7gphiFVVtUI&list=RD7gphiFVVtUI&start_radio=1">
+  <b>Estas Tonne - The Song of the Golden Dragon</b>
 </a>
 </div>
 
