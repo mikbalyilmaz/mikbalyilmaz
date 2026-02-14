@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=Dp3BlFZWJNA&list=RDDp3BlFZWJNA&start_radio=1">
-  <img src="https://img.youtube.com/vi/Dp3BlFZWJNA/hqdefault.jpg" width="320" alt="Penderecki: Threnody for the Victims of Hiroshima"/>
+<a href="https://www.youtube.com/watch?v=9DAIX4IH1kI">
+  <img src="https://img.youtube.com/vi/9DAIX4IH1kI/hqdefault.jpg" width="320" alt="Gnossiennes: I. Lent"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=Dp3BlFZWJNA&list=RDDp3BlFZWJNA&start_radio=1">
-  <b>Penderecki: Threnody for the Victims of Hiroshima</b>
+<a href="https://www.youtube.com/watch?v=9DAIX4IH1kI">
+  <b>Gnossiennes: I. Lent</b>
 </a>
 </div>
 
