@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=9DAIX4IH1kI">
-  <img src="https://img.youtube.com/vi/9DAIX4IH1kI/hqdefault.jpg" width="320" alt="Gnossiennes: I. Lent"/>
+<a href="https://www.youtube.com/watch?v=9LWLwH8MKWM&list=RD9LWLwH8MKWM&start_radio=1&rv=9DAIX4IH1kI">
+  <img src="https://img.youtube.com/vi/9LWLwH8MKWM/hqdefault.jpg" width="320" alt="The Astounding Eyes Of Rita - Anouar Brahem"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=9DAIX4IH1kI">
-  <b>Gnossiennes: I. Lent</b>
+<a href="https://www.youtube.com/watch?v=9LWLwH8MKWM&list=RD9LWLwH8MKWM&start_radio=1&rv=9DAIX4IH1kI">
+  <b>The Astounding Eyes Of Rita - Anouar Brahem</b>
 </a>
 </div>
 
