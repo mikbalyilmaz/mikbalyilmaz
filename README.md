@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=2xKOaekC54Y&list=RD9LWLwH8MKWM&index=17">
-  <img src="https://img.youtube.com/vi/2xKOaekC54Y/hqdefault.jpg" width="320" alt="The Godfather Suite"/>
+<a href="https://www.youtube.com/watch?v=iJaKs2InlKY&list=RDfKSbhaScNWE&index=5">
+  <img src="https://img.youtube.com/vi/iJaKs2InlKY/hqdefault.jpg" width="320" alt="Anouar Brahem - Eté andalous"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=2xKOaekC54Y&list=RD9LWLwH8MKWM&index=17">
-  <b>The Godfather Suite</b>
+<a href="https://www.youtube.com/watch?v=iJaKs2InlKY&list=RDfKSbhaScNWE&index=5">
+  <b>Anouar Brahem - Eté andalous</b>
 </a>
 </div>
 
