@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=K60mW-Ajm5Y&list=RDK60mW-Ajm5Y&start_radio=1">
-  <img src="https://img.youtube.com/vi/K60mW-Ajm5Y/hqdefault.jpg" width="320" alt="Midlake - Core Of Nature"/>
+<a href="https://www.youtube.com/watch?v=QzRY8hKH6eY&list=RDQzRY8hKH6eY&start_radio=1">
+  <img src="https://img.youtube.com/vi/QzRY8hKH6eY/hqdefault.jpg" width="320" alt="Ali'yi Gördüm Ali'Yi - Zeki Müren"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=K60mW-Ajm5Y&list=RDK60mW-Ajm5Y&start_radio=1">
-  <b>Midlake - Core Of Nature</b>
+<a href="https://www.youtube.com/watch?v=QzRY8hKH6eY&list=RDQzRY8hKH6eY&start_radio=1">
+  <b>Ali'yi Gördüm Ali'Yi - Zeki Müren</b>
 </a>
 </div>
 
