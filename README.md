@@ -12,15 +12,14 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=X0pinzP082U&list=RDX0pinzP082U&start_radio=1">
-  <img src="https://img.youtube.com/vi/X0pinzP082U/hqdefault.jpg" width="320" alt="Bekir Sıtkı Sezgin | Tûtî-i Mu'cize-Gûyem Ne Desem Lâf Değil"/>
+<a href="https://www.youtube.com/watch?v=TJ6Mzvh3XCc&list=RDTJ6Mzvh3XCc&start_radio=1">
+  <img src="https://img.youtube.com/vi/TJ6Mzvh3XCc/hqdefault.jpg" width="320" alt="Arvo Pärt - Spiegel im Spiegel"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=X0pinzP082U&list=RDX0pinzP082U&start_radio=1">
-  <b>Bekir Sıtkı Sezgin | Tûtî-i Mu'cize-Gûyem Ne Desem Lâf Değil</b>
+<a href="https://www.youtube.com/watch?v=TJ6Mzvh3XCc&list=RDTJ6Mzvh3XCc&start_radio=1">
+  <b>Arvo Pärt - Spiegel im Spiegel</b>
 </a>
-</div>
 
 # Muhammed İkbal Yılmaz
 
