@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=TJ6Mzvh3XCc&list=RDTJ6Mzvh3XCc&start_radio=1">
-  <img src="https://img.youtube.com/vi/TJ6Mzvh3XCc/hqdefault.jpg" width="320" alt="Arvo Pärt - Spiegel im Spiegel"/>
+<a href="https://www.youtube.com/watch?v=87DJF1_vwQA">
+  <img src="https://img.youtube.com/vi/87DJF1_vwQA/hqdefault.jpg" width="320" alt="Henryk Górecki - Symphony No. 3"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=TJ6Mzvh3XCc&list=RDTJ6Mzvh3XCc&start_radio=1">
-  <b>Arvo Pärt - Spiegel im Spiegel</b>
+<a href="https://www.youtube.com/watch?v=87DJF1_vwQA">
+  <b>Henryk Górecki - Symphony No. 3</b>
 </a>
 
 # Muhammed İkbal Yılmaz
