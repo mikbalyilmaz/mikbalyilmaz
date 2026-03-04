@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=eJwSZIajEvI&list=RDeJwSZIajEvI&start_radio=1">
-  <img src="https://img.youtube.com/vi/eJwSZIajEvI/hqdefault.jpg" width="320" alt="Dhafer Youssef - Soupir Eternel"/>
+<a href="https://www.youtube.com/watch?v=eMnxjdGTK4w&list=RDeMnxjdGTK4w&start_radio=1">
+  <img src="https://img.youtube.com/vi/eMnxjdGTK4w/hqdefault.jpg" width="320" alt="Gymnopédie No. 1"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=eJwSZIajEvI&list=RDeJwSZIajEvI&start_radio=1">
-  <b>Dhafer Youssef - Soupir Eternel</b>
+<a href="https://www.youtube.com/watch?v=eMnxjdGTK4w&list=RDeMnxjdGTK4w&start_radio=1">
+  <b>Gymnopédie No. 1</b>
 </a>
 
 # Muhammed İkbal Yılmaz
