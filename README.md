@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=eMnxjdGTK4w&list=RDeMnxjdGTK4w&start_radio=1">
-  <img src="https://img.youtube.com/vi/eMnxjdGTK4w/hqdefault.jpg" width="320" alt="Gymnopédie No. 1"/>
+<a href="https://www.youtube.com/watch?v=NTIkR8q3osk">
+  <img src="https://img.youtube.com/vi/NTIkR8q3osk/hqdefault.jpg" width="320" alt="György Ligeti - Lux Aeterna"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=eMnxjdGTK4w&list=RDeMnxjdGTK4w&start_radio=1">
-  <b>Gymnopédie No. 1</b>
+<a href="https://www.youtube.com/watch?v=NTIkR8q3osk">
+  <b>György Ligeti - Lux Aeterna</b>
 </a>
 
 # Muhammed İkbal Yılmaz
