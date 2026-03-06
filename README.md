@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=NTIkR8q3osk">
-  <img src="https://img.youtube.com/vi/NTIkR8q3osk/hqdefault.jpg" width="320" alt="György Ligeti - Lux Aeterna"/>
+<a href="https://www.youtube.com/watch?v=P5D8pfKT9nQ&t=16s">
+<img src="https://img.youtube.com/vi/P5D8pfKT9nQ/hqdefault.jpg" width="320" alt="Niyazi Sayın & Necdet Yaşar - Nevâ Peşrevi"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=NTIkR8q3osk">
-  <b>György Ligeti - Lux Aeterna</b>
+<a href="https://www.youtube.com/watch?v=P5D8pfKT9nQ&t=16s">
+<b>Niyazi Sayın & Necdet Yaşar - Nevâ Peşrevi</b>
 </a>
 
 # Muhammed İkbal Yılmaz
