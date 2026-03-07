@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=P5D8pfKT9nQ&t=16s">
-<img src="https://img.youtube.com/vi/P5D8pfKT9nQ/hqdefault.jpg" width="320" alt="Niyazi Sayın & Necdet Yaşar - Nevâ Peşrevi"/>
+<a href="https://www.youtube.com/watch?v=wj7gEaHtkxw&list=RDwj7gEaHtkxw&start_radio=1">
+<img src="https://img.youtube.com/vi/wj7gEaHtkxw/hqdefault.jpg" width="320" alt="MFÖ - Sakın Gelme (Official Video)"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=P5D8pfKT9nQ&t=16s">
-<b>Niyazi Sayın & Necdet Yaşar - Nevâ Peşrevi</b>
+<a href="https://www.youtube.com/watch?v=wj7gEaHtkxw&list=RDwj7gEaHtkxw&start_radio=1">
+<b>MFÖ - Sakın Gelme (Official Video)</b>
 </a>
 
 # Muhammed İkbal Yılmaz
