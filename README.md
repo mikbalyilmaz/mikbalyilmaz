@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=wj7gEaHtkxw&list=RDwj7gEaHtkxw&start_radio=1">
-<img src="https://img.youtube.com/vi/wj7gEaHtkxw/hqdefault.jpg" width="320" alt="MFÖ - Sakın Gelme (Official Video)"/>
+<a href="https://www.youtube.com/watch?v=_8EWKs4KP9k&list=RD_8EWKs4KP9k&start_radio=1">
+<img src="https://img.youtube.com/vi/_8EWKs4KP9k/hqdefault.jpg" width="320" alt="MFÖ - Gözyaşlarımızı Bitti Mi Sandın (Official Audio)"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=wj7gEaHtkxw&list=RDwj7gEaHtkxw&start_radio=1">
-<b>MFÖ - Sakın Gelme (Official Video)</b>
+<a href="https://www.youtube.com/watch?v=_8EWKs4KP9k&list=RD_8EWKs4KP9k&start_radio=1">
+<b>MFÖ - Gözyaşlarımızı Bitti Mi Sandın (Official Audio)</b>
 </a>
 
 # Muhammed İkbal Yılmaz
