@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=_8EWKs4KP9k&list=RD_8EWKs4KP9k&start_radio=1">
-<img src="https://img.youtube.com/vi/_8EWKs4KP9k/hqdefault.jpg" width="320" alt="MFÖ - Gözyaşlarımızı Bitti Mi Sandın (Official Audio)"/>
+<a href="https://www.youtube.com/watch?v=SgXSomPE_FY&list=RDSgXSomPE_FY&start_radio=1">
+<img src="https://img.youtube.com/vi/SgXSomPE_FY/hqdefault.jpg" width="320" alt="B.B. King - The Thrill Is Gone [Crossroads 2010] (Official Live Video)"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=_8EWKs4KP9k&list=RD_8EWKs4KP9k&start_radio=1">
-<b>MFÖ - Gözyaşlarımızı Bitti Mi Sandın (Official Audio)</b>
+<a href="https://www.youtube.com/watch?v=SgXSomPE_FY&list=RDSgXSomPE_FY&start_radio=1">
+<b>B.B. King - The Thrill Is Gone [Crossroads 2010] (Official Live Video)</b>
 </a>
 
 # Muhammed İkbal Yılmaz
