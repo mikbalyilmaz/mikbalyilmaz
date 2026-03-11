@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=SgXSomPE_FY&list=RDSgXSomPE_FY&start_radio=1">
-<img src="https://img.youtube.com/vi/SgXSomPE_FY/hqdefault.jpg" width="320" alt="B.B. King - The Thrill Is Gone [Crossroads 2010] (Official Live Video)"/>
+<a href="https://www.youtube.com/watch?v=4fk2prKnYnI&list=RDEMT07hsi3ehwepZ4KWOxsCFg&start_radio=1">
+<img src="https://img.youtube.com/vi/4fk2prKnYnI/hqdefault.jpg" width="320" alt="B. B. King - The Thrill Is Gone (Live at Montreux 1993) | Stages"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=SgXSomPE_FY&list=RDSgXSomPE_FY&start_radio=1">
-<b>B.B. King - The Thrill Is Gone [Crossroads 2010] (Official Live Video)</b>
+<a href="https://www.youtube.com/watch?v=4fk2prKnYnI&list=RDEMT07hsi3ehwepZ4KWOxsCFg&start_radio=1">
+<b>B. B. King - The Thrill Is Gone (Live at Montreux 1993) | Stages</b>
 </a>
 
 # Muhammed İkbal Yılmaz
