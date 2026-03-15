@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=_8EWKs4KP9k&list=RD_8EWKs4KP9k&start_radio=1">
-<img src="https://img.youtube.com/vi/_8EWKs4KP9k/hqdefault.jpg" width="320" alt="MFÖ - Gözyaşlarımızı Bitti Mi Sandın (Official Audio)"/>
+<a href="https://www.youtube.com/watch?v=7CVfzEFbynQ">
+<img src="https://img.youtube.com/vi/7CVfzEFbynQ/hqdefault.jpg" width="320" alt="Fikret Kızılok - Zaman Zaman"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=_8EWKs4KP9k&list=RD_8EWKs4KP9k&start_radio=1">
-<b>MFÖ - Gözyaşlarımızı Bitti Mi Sandın (Official Audio)</b>
+<a href="https://www.youtube.com/watch?v=7CVfzEFbynQ">
+<b>Fikret Kızılok - Zaman Zaman</b>
 </a>
 
 # Muhammed İkbal Yılmaz
