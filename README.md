@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=7CVfzEFbynQ">
-<img src="https://img.youtube.com/vi/7CVfzEFbynQ/hqdefault.jpg" width="320" alt="Fikret Kızılok - Zaman Zaman"/>
+<a href="https://www.youtube.com/watch?v=A3adFWKE9JE">
+<img src="https://img.youtube.com/vi/A3adFWKE9JE/hqdefault.jpg" width="320" alt="Jeff Buckley - Grace"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=7CVfzEFbynQ">
-<b>Fikret Kızılok - Zaman Zaman</b>
+<a href="https://www.youtube.com/watch?v=A3adFWKE9JE">
+<b>Jeff Buckley - Grace</b>
 </a>
 
 # Muhammed İkbal Yılmaz
