@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=A3adFWKE9JE">
-<img src="https://img.youtube.com/vi/A3adFWKE9JE/hqdefault.jpg" width="320" alt="Jeff Buckley - Grace"/>
+<a href="https://www.youtube.com/watch?v=idcaRTg4-fM">
+<img src="https://img.youtube.com/vi/idcaRTg4-fM/hqdefault.jpg" width="320" alt="Nick Drake - River Man"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=A3adFWKE9JE">
-<b>Jeff Buckley - Grace</b>
+<a href="https://www.youtube.com/watch?v=idcaRTg4-fM">
+<b>Nick Drake - River Man</b>
 </a>
 
 # Muhammed İkbal Yılmaz
