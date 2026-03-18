@@ -12,12 +12,12 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=idcaRTg4-fM">
+<a href="https://www.youtube.com/watch?v=idcaRTg4-fM" target="_blank">
 <img src="https://img.youtube.com/vi/idcaRTg4-fM/hqdefault.jpg" width="320" alt="Nick Drake - River Man"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=idcaRTg4-fM">
+<a href="https://www.youtube.com/watch?v=idcaRTg4-fM" target="_blank">
 <b>Nick Drake - River Man</b>
 </a>
 
