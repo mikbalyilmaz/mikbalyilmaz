@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=idcaRTg4-fM" target="_blank">
-<img src="https://img.youtube.com/vi/idcaRTg4-fM/hqdefault.jpg" width="320" alt="Nick Drake - River Man"/>
+<a href="https://www.youtube.com/watch?v=jBSMGjRxRII" target="_blank">
+<img src="https://img.youtube.com/vi/jBSMGjRxRII/hqdefault.jpg" width="320" alt="$NOT - ROCKY BALBOA"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=idcaRTg4-fM" target="_blank">
-<b>Nick Drake - River Man</b>
+<a href="https://www.youtube.com/watch?v=jBSMGjRxRII" target="_blank">
+<b>$NOT - ROCKY BALBOA</b>
 </a>
 
 # Muhammed İkbal Yılmaz
