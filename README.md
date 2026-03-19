@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=jBSMGjRxRII" target="_blank">
-<img src="https://img.youtube.com/vi/jBSMGjRxRII/hqdefault.jpg" width="320" alt="$NOT - ROCKY BALBOA"/>
+<a href="https://www.youtube.com/watch?v=zU5WU_d7fsM" target="_blank">
+<img src="https://img.youtube.com/vi/zU5WU_d7fsM/hqdefault.jpg" width="320" alt="Anouar Brahem - The Astounding Eyes of Rita"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=jBSMGjRxRII" target="_blank">
-<b>$NOT - ROCKY BALBOA</b>
+<a href="https://www.youtube.com/watch?v=zU5WU_d7fsM" target="_blank">
+<b>Anouar Brahem - The Astounding Eyes of Rita</b>
 </a>
 
 # Muhammed İkbal Yılmaz
