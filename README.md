@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=zU5WU_d7fsM" target="_blank">
-<img src="https://img.youtube.com/vi/zU5WU_d7fsM/hqdefault.jpg" width="320" alt="Anouar Brahem - The Astounding Eyes Of Rita (Live)"/>
+<a href="https://www.youtube.com/watch?v=LoiyWTtinbk" target="_blank">
+<img src="https://img.youtube.com/vi/LoiyWTtinbk/hqdefault.jpg" width="320" alt="Le Trio Joubran - Masâr"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=zU5WU_d7fsM" target="_blank">
-<b>Anouar Brahem - The Astounding Eyes Of Rita (Live)</b>
+<a href="https://www.youtube.com/watch?v=LoiyWTtinbk" target="_blank">
+<b>Le Trio Joubran - Masâr</b>
 </a>
 
 # Muhammed İkbal Yılmaz
