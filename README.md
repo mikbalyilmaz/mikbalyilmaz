@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=LoiyWTtinbk" target="_blank">
-<img src="https://img.youtube.com/vi/LoiyWTtinbk/hqdefault.jpg" width="320" alt="Le Trio Joubran - Masâr"/>
+<a href="https://www.youtube.com/watch?v=rVN1B-tUpgs" target="_blank">
+<img src="https://img.youtube.com/vi/rVN1B-tUpgs/hqdefault.jpg" width="320" alt="Max Richter - On the Nature of Daylight"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=LoiyWTtinbk" target="_blank">
-<b>Le Trio Joubran - Masâr</b>
+<a href="https://www.youtube.com/watch?v=rVN1B-tUpgs" target="_blank">
+<b>Max Richter - On the Nature of Daylight</b>
 </a>
 
 # Muhammed İkbal Yılmaz
