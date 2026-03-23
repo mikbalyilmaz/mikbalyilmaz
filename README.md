@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=rVN1B-tUpgs" target="_blank">
-<img src="https://img.youtube.com/vi/rVN1B-tUpgs/hqdefault.jpg" width="320" alt="Max Richter - On the Nature of Daylight"/>
+<a href="https://www.youtube.com/watch?v=2DLnhdnSUVs" target="_blank">
+<img src="https://img.youtube.com/vi/2DLnhdnSUVs/hqdefault.jpg" width="320" alt="Ludovico Einaudi - Nuvole Bianche"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=rVN1B-tUpgs" target="_blank">
-<b>Max Richter - On the Nature of Daylight</b>
+<a href="https://www.youtube.com/watch?v=2DLnhdnSUVs" target="_blank">
+<b>Ludovico Einaudi - Nuvole Bianche</b>
 </a>
 
 # Muhammed İkbal Yılmaz
