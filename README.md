@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=2DLnhdnSUVs" target="_blank">
-<img src="https://img.youtube.com/vi/2DLnhdnSUVs/hqdefault.jpg" width="320" alt="Ludovico Einaudi - Nuvole Bianche"/>
+<a href="https://www.youtube.com/watch?v=-nBE9U7q1Uc" target="_blank">
+<img src="https://img.youtube.com/vi/-nBE9U7q1Uc/hqdefault.jpg" width="320" alt="Philip Glass - Opening"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=2DLnhdnSUVs" target="_blank">
-<b>Ludovico Einaudi - Nuvole Bianche</b>
+<a href="https://www.youtube.com/watch?v=-nBE9U7q1Uc" target="_blank">
+<b>Philip Glass - Opening</b>
 </a>
 
 # Muhammed İkbal Yılmaz
