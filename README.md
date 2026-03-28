@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=4VR-6AS0-l4" target="_blank">
-<img src="https://img.youtube.com/vi/4VR-6AS0-l4/hqdefault.jpg" width="320" alt="Ludovico Einaudi - Nuvole Bianche"/>
+<a href="https://www.youtube.com/watch?v=kFRdoYfZYUY" target="_blank">
+<img src="https://img.youtube.com/vi/kFRdoYfZYUY/hqdefault.jpg" width="320" alt="Hania Rani – Live from Studio S2"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=4VR-6AS0-l4" target="_blank">
-<b>Ludovico Einaudi - Nuvole Bianche</b>
+<a href="https://www.youtube.com/watch?v=kFRdoYfZYUY" target="_blank">
+<b>Hania Rani – Live from Studio S2</b>
 </a>
 
 # Muhammed İkbal Yılmaz
