@@ -12,12 +12,12 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=kFRdoYfZYUY" target="_blank">
+<a href="https://www.youtube.com/watch?v=kFRdoYfZYUY&autoplay=1" target="_blank">
 <img src="https://img.youtube.com/vi/kFRdoYfZYUY/hqdefault.jpg" width="320" alt="Hania Rani – Live from Studio S2"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=kFRdoYfZYUY" target="_blank">
+<a href="https://www.youtube.com/watch?v=kFRdoYfZYUY&autoplay=1" target="_blank">
 <b>Hania Rani – Live from Studio S2</b>
 </a>
 
@@ -25,7 +25,7 @@
 
 B.Sc. Econometrics — Ankara Hacı Bayram Veli University (2024)
 
-I’m preparing for research-oriented graduate studies. My main interests:
+Main interests:
 
 - Econometrics & statistical modeling  
 - Time series analysis and forecasting  
@@ -34,7 +34,7 @@ I’m preparing for research-oriented graduate studies. My main interests:
 
 ## What you’ll find here;
 
-This profile is a workspace for learning, replication, and small projects as I build a stronger methodological foundation for graduate-level econometrics.
+This profile is a workspace for learning, replication, and small projects as I build a stronger methodological foundation for undergraduate-level econometrics.
 
 ## Experience;
 
