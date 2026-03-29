@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=kFRdoYfZYUY&autoplay=1" target="_blank">
-<img src="https://img.youtube.com/vi/kFRdoYfZYUY/hqdefault.jpg" width="320" alt="Hania Rani – Live from Studio S2"/>
+<a href="https://www.youtube.com/watch?v=0_u6_I17Z70&t=45s" target="_blank" rel="noopener noreferrer">
+<img src="https://img.youtube.com/vi/0_u6_I17Z70/hqdefault.jpg" width="320" alt="Anouar Brahem – Blue Maqams"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=kFRdoYfZYUY&autoplay=1" target="_blank">
-<b>Hania Rani – Live from Studio S2</b>
+<a href="https://www.youtube.com/watch?v=0_u6_I17Z70&t=45s" target="_blank" rel="noopener noreferrer">
+<b>Anouar Brahem – Blue Maqams</b>
 </a>
 
 # Muhammed İkbal Yılmaz
