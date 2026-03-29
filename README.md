@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=F_Y6_f6v_9E&vq=hd1080" target="_blank" rel="noopener noreferrer">
-<img src="https://img.youtube.com/vi/F_Y6_f6v_9E/hqdefault.jpg" width="320" alt="Tigran Hamasyan – Vardavar"/>
+<a href="https://www.youtube.com/watch?v=icXY2XSTZkY&list=RDicXY2XSTZkY&start_radio=1" target="_blank" rel="noopener noreferrer">
+<img src="https://img.youtube.com/vi/icXY2XSTZkY/hqdefault.jpg" width="320" alt="Stephan Micus – Part I"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=F_Y6_f6v_9E&vq=hd1080" target="_blank" rel="noopener noreferrer">
-<b>Tigran Hamasyan – Vardavar</b>
+<a href="https://www.youtube.com/watch?v=icXY2XSTZkY&list=RDicXY2XSTZkY&start_radio=1" target="_blank" rel="noopener noreferrer">
+<b>Stephan Micus – Part I</b>
 </a>
 
 # Muhammed İkbal Yılmaz
