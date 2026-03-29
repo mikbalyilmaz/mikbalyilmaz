@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=0_u6_I17Z70&t=45s" target="_blank" rel="noopener noreferrer">
-<img src="https://img.youtube.com/vi/0_u6_I17Z70/hqdefault.jpg" width="320" alt="Anouar Brahem – Blue Maqams"/>
+<a href="https://www.youtube.com/watch?v=F_Y6_f6v_9E&vq=hd1080" target="_blank" rel="noopener noreferrer">
+<img src="https://img.youtube.com/vi/F_Y6_f6v_9E/hqdefault.jpg" width="320" alt="Tigran Hamasyan – Vardavar"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=0_u6_I17Z70&t=45s" target="_blank" rel="noopener noreferrer">
-<b>Anouar Brahem – Blue Maqams</b>
+<a href="https://www.youtube.com/watch?v=F_Y6_f6v_9E&vq=hd1080" target="_blank" rel="noopener noreferrer">
+<b>Tigran Hamasyan – Vardavar</b>
 </a>
 
 # Muhammed İkbal Yılmaz
