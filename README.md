@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=icXY2XSTZkY&list=RDicXY2XSTZkY&start_radio=1" target="_blank" rel="noopener noreferrer">
-<img src="https://img.youtube.com/vi/icXY2XSTZkY/hqdefault.jpg" width="320" alt="Stephan Micus – Part I"/>
+<a href="https://www.youtube.com/watch?v=R9K1Xm6G9_s" target="_blank" rel="noopener noreferrer">
+<img src="https://img.youtube.com/vi/R9K1Xm6G9_s/hqdefault.jpg" width="320" alt="Max Richter – On the Nature of Daylight"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=icXY2XSTZkY&list=RDicXY2XSTZkY&start_radio=1" target="_blank" rel="noopener noreferrer">
-<b>Stephan Micus – Part I</b>
+<a href="https://www.youtube.com/watch?v=R9K1Xm6G9_s" target="_blank" rel="noopener noreferrer">
+<b>Max Richter – On the Nature of Daylight</b>
 </a>
 
 # Muhammed İkbal Yılmaz
