@@ -12,13 +12,13 @@
 <div align="left">
 
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=Ituzi_-9RJI" target="_blank" rel="noopener noreferrer">
-<img src="https://img.youtube.com/vi/Ituzi_-9RJI/hqdefault.jpg" width="320" alt="Gemide (On Board) - Soundtrack"/>
+<a href="https://www.youtube.com/watch?v=-CxauCeQ_SQ" target="_blank" rel="noopener noreferrer">
+<img src="https://img.youtube.com/vi/-CxauCeQ_SQ/maxresdefault.jpg" width="320" alt="TARKAN - Kış Güneşi (Official Music Video)"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=Ituzi_-9RJI" target="_blank" rel="noopener noreferrer">
-<b>Gemide (On Board) - Soundtrack</b>
+<a href="https://www.youtube.com/watch?v=-CxauCeQ_SQ" target="_blank" rel="noopener noreferrer">
+<b>TARKAN - Kış Güneşi (Official Music Video)</b>
 </a>
 
 # Muhammed İkbal Yılmaz
