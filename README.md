@@ -12,13 +12,13 @@
 <div align="left">
   
 ### Chosen from the list today;
-<a href="https://www.youtube.com/watch?v=uDFpcSc7IcY" target="_blank" rel="noopener noreferrer">
-<img src="https://img.youtube.com/vi/uDFpcSc7IcY/hqdefault.jpg" width="320" alt="Eleni Karaindrou – The Weeping Meadow"/>
+<a href="https://www.youtube.com/watch?v=Ituzi_-9RJI" target="_blank" rel="noopener noreferrer">
+<img src="https://img.youtube.com/vi/Ituzi_-9RJI/hqdefault.jpg" width="320" alt="Gemide (On Board) - Soundtrack"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=uDFpcSc7IcY" target="_blank" rel="noopener noreferrer">
-<b>Eleni Karaindrou – The Weeping Meadow</b>
+<a href="https://www.youtube.com/watch?v=Ituzi_-9RJI" target="_blank" rel="noopener noreferrer">
+<b>Gemide (On Board) - Soundtrack</b>
 </a>
 
 # Muhammed İkbal Yılmaz
