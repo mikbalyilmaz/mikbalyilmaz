@@ -10,7 +10,7 @@
 </p>
 
 <div align="left">
-  
+
 ### Chosen from the list today;
 <a href="https://www.youtube.com/watch?v=Ituzi_-9RJI" target="_blank" rel="noopener noreferrer">
 <img src="https://img.youtube.com/vi/Ituzi_-9RJI/hqdefault.jpg" width="320" alt="Gemide (On Board) - Soundtrack"/>
@@ -23,30 +23,18 @@
 
 # Muhammed İkbal Yılmaz
 
-B.Sc. Econometrics — Ankara Hacı Bayram Veli University (2024)
+I graduated from Ankara Hacı Bayram Veli University in June 2024 with a degree in Econometrics. During my studies, I focused deeply on areas like financial econometrics, econometric theory, time series, and statistical data analysis. My quantitative foundation is built on university-level calculus, linear algebra, and statistics.
 
-Main interests:
+I also had the opportunity to represent my university and present my research at various conferences, which gave me valuable early-stage academic experience. 
 
-- Econometrics & statistical modeling  
-- Time series analysis and forecasting  
-- Applied machine learning (econometric perspective)  
-- Nonlinear and high-dimensional models  
+Welcome to my GitHub space—feel free to explore my projects!
 
-## What you’ll find here;
+## Research & Experience
+- **TÜBİTAK 2209-A (2023–2024)** — *Brand Preference, Loyalty & Trust: Applied Statistical Study* - **UYIK 2024** — *Statistical analysis of brand perception among university students* - **IDSSC 2024** — *Classification of Brand Perception Using Random Forest* ## Tools
+Python (Jupyter), R, Stata, SPSS, LaTeX  
+*(Always learning, adapting, and expanding my technical stack.)*
 
-This profile is a workspace for learning, replication, and small projects as I build a stronger methodological foundation for undergraduate-level econometrics.
-
-## Experience;
-
-- **TÜBİTAK 2209-A (2023–2024)** — *Brand Preference, Loyalty & Trust: Applied Statistical Study*  
-- **UYIK 2024** — *Statistical analysis of brand perception among university students*  
-- **IDSSC 2024** — *Classification of Brand Perception Using Random Forest*  
-
-## Tools;
-
-Python (Jupyter), R, Stata, SPSS, LaTeX (Note: It usually changes)
-
-## Contact;
+## Contact
 
 <p align="center">
   <a href="mailto:myucanlar@gmail.com">
@@ -54,6 +42,8 @@ Python (Jupyter), R, Stata, SPSS, LaTeX (Note: It usually changes)
   </a>
 </p>
 
-- Email: myucanlar@gmail.com  
-- Secondary: mikbalyilmaz@gmx.com  
-- LinkedIn: https://www.linkedin.com/in/muhammed-ikbal-yilmaz-36622a276
+- **Email:** myucanlar@gmail.com  
+- **Secondary:** mikbalyilmaz@gmx.com  
+- **LinkedIn:** [Muhammed İkbal Yılmaz](https://www.linkedin.com/in/muhammed-ikbal-yilmaz-36622a276)
+
+</div>
