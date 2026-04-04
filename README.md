@@ -21,6 +21,7 @@
 <a href="https://www.youtube.com/watch?v=-CxauCeQ_SQ" target="_blank" rel="noopener noreferrer">
 <b>TARKAN - Kış Güneşi (Official Music Video)</b>
 </a>
+
 # Muhammed İkbal Yılmaz
 
 I graduated from Ankara Hacı Bayram Veli University in June 2024 with a degree in Econometrics. During my studies, I focused deeply on areas like financial econometrics, econometric theory, time series, and statistical data analysis. My quantitative foundation is built on university-level calculus, linear algebra, and statistics. I also had the opportunity to represent my university and present my research at various conferences, which gave me valuable early-stage academic experience. Welcome to my GitHub space—feel free to explore my projects!
