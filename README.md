@@ -12,6 +12,7 @@
 <div align="left">
 
 ### Chosen from the list today;
+
 <a href="https://www.youtube.com/watch?v=-CxauCeQ_SQ" target="_blank" rel="noopener noreferrer">
 <img src="https://img.youtube.com/vi/-CxauCeQ_SQ/maxresdefault.jpg" width="320" alt="TARKAN - Kış Güneşi (Official Music Video)"/>
 </a>
@@ -20,14 +21,9 @@
 <a href="https://www.youtube.com/watch?v=-CxauCeQ_SQ" target="_blank" rel="noopener noreferrer">
 <b>TARKAN - Kış Güneşi (Official Music Video)</b>
 </a>
-
 # Muhammed İkbal Yılmaz
 
-I graduated from Ankara Hacı Bayram Veli University in June 2024 with a degree in Econometrics. During my studies, I focused deeply on areas like financial econometrics, econometric theory, time series, and statistical data analysis. My quantitative foundation is built on university-level calculus, linear algebra, and statistics.
-
-I also had the opportunity to represent my university and present my research at various conferences, which gave me valuable early-stage academic experience. 
-
-Welcome to my GitHub space—feel free to explore my projects!
+I graduated from Ankara Hacı Bayram Veli University in June 2024 with a degree in Econometrics. During my studies, I focused deeply on areas like financial econometrics, econometric theory, time series, and statistical data analysis. My quantitative foundation is built on university-level calculus, linear algebra, and statistics. I also had the opportunity to represent my university and present my research at various conferences, which gave me valuable early-stage academic experience. Welcome to my GitHub space—feel free to explore my projects!
 
 ## Research & Experience
 - **TÜBİTAK 2209-A (2023–2024)** — *Brand Preference, Loyalty & Trust: Applied Statistical Study* - **UYIK 2024** — *Statistical analysis of brand perception among university students* - **IDSSC 2024** — *Classification of Brand Perception Using Random Forest* ## Tools
