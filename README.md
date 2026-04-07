@@ -13,13 +13,13 @@
 
 ### Chosen from the list today;
 
-<a href="https://www.youtube.com/watch?v=-CxauCeQ_SQ" target="_blank" rel="noopener noreferrer">
-<img src="https://img.youtube.com/vi/-CxauCeQ_SQ/maxresdefault.jpg" width="320" alt="TARKAN - Kış Güneşi (Official Music Video)"/>
+<a href="https://www.youtube.com/watch?v=1Z7RJOAkXMo&list=RD1Z7RJOAkXMo&start_radio=1" target="_blank" rel="noopener noreferrer">
+<img src="https://img.youtube.com/vi/1Z7RJOAkXMo/maxresdefault.jpg" width="320" alt="Anouar Brahem &quot;Halfaouine&quot; Live in Carthage - 2014"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=-CxauCeQ_SQ" target="_blank" rel="noopener noreferrer">
-<b>TARKAN - Kış Güneşi (Official Music Video)</b>
+<a href="https://www.youtube.com/watch?v=1Z7RJOAkXMo&list=RD1Z7RJOAkXMo&start_radio=1" target="_blank" rel="noopener noreferrer">
+<b>Anouar Brahem "Halfaouine" Live in Carthage - 2014</b>
 </a>
 
 # Muhammed İkbal Yılmaz
