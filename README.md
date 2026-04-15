@@ -13,14 +13,14 @@
 
 ### Chosen from the list today;
 
-<a href="https://www.youtube.com/watch?v=1Z7RJOAkXMo&list=RD1Z7RJOAkXMo&start_radio=1" target="_blank" rel="noopener noreferrer">
-<img src="https://img.youtube.com/vi/1Z7RJOAkXMo/maxresdefault.jpg" width="320" alt="Anouar Brahem &quot;Halfaouine&quot; Live in Carthage - 2014"/>
+<a href="https://www.youtube.com/watch?v=ii_3-TfXx1c&list=RD0XAGpGiJ39A&index=5" target="_blank" rel="noopener noreferrer">
+<img src="https://img.youtube.com/vi/ii_3-TfXx1c/maxresdefault.jpg" width="320" alt="Kurtlar Vadisi - Hekimoğlu Zurna V2"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=1Z7RJOAkXMo&list=RD1Z7RJOAkXMo&start_radio=1" target="_blank" rel="noopener noreferrer">
-<b>Anouar Brahem "Halfaouine" Live in Carthage - 2014</b>
-</a>
+<a href="https://www.youtube.com/watch?v=ii_3-TfXx1c&list=RD0XAGpGiJ39A&index=5" target="_blank" rel="noopener noreferrer">
+<b>Kurtlar Vadisi - Hekimoğlu Zurna V2</b>
+</a>>
 
 # Muhammed İkbal Yılmaz
 
