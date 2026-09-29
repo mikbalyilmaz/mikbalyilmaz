@@ -59,7 +59,7 @@ Econometrician with a research focus on time-series econometrics, empirical stat
 
 * **Languages & Analytics:** Python (`statsmodels`, `scikit-learn`, `pandas`, `numpy`), R, SQL, Stata, SPSS, EViews, MATLAB, LaTeX
 * **Methodologies:** Time Series Analysis (ADF, ARMA, ARX), Parametric/Non-Parametric Hypothesis Testing, Regression Diagnostics, Machine Learning (Random Forests, Decision Trees, ANN), Monte Carlo / LCG Simulation
-* **Spoken Languages:** Turkish (Native), English (C1 Advanced), German (B1 Intermediate)
+* **Spoken Languages:** Turkish (Native), English
 
 ---
 
