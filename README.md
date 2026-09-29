@@ -31,35 +31,35 @@
 
 # Muhammed İkbal Yılmaz
 
-Econometrician with a research focus on time-series econometrics, empirical statistical modeling, and applied machine learning[cite: 17]. Holding a B.S. in Econometrics from Ankara Hacı Bayram Veli University, my quantitative background centers on regression diagnostics, stochastic processes, macro-financial modeling, and classification architectures[cite: 17].
+Econometrician with a research focus on time-series econometrics, empirical statistical modeling, and applied machine learning. Holding a B.S. in Econometrics from Ankara Hacı Bayram Veli University, my quantitative background centers on regression diagnostics, stochastic processes, macro-financial modeling, and classification architectures.
 
 ---
 
 ### Research & Academic Output
 
-* **TÜBİTAK 2209-A (2023–2024)** — *Brand Preference and Loyalty Dynamics*[cite: 17]  
-  Principal Investigator (Yürütücü)[cite: 17]. Built complete data pipeline ($N=407$): survey design, Q-Q normality diagnostics, Spearman correlations, $\chi^2$ independence tests, and ANOVA with Tukey's HSD post-hoc testing[cite: 17].
-* **IDSSC 2024 (International Data Science and Statistics Congress)** — *Oral Presentation*[cite: 17]  
-  Multi-class Random Forest modeling with SMOTE resampled imbalanced data; evaluated entropy-based node splits, precision/recall trade-offs, and classification performance[cite: 17].
-* **UYIK 2024 (V. International Applied Statistics Congress)** — *Proceedings Paper*[cite: 17]  
-  Empirical modeling of consumer preferences via two-sample hypothesis tests and parametric correlation matrices[cite: 17].
+* **TÜBİTAK 2209-A (2023–2024)** — *Brand Preference and Loyalty Dynamics*  
+  Principal Investigator (Yürütücü). Built complete data pipeline ($N=407$): survey design, Q-Q normality diagnostics, Spearman correlations, $\chi^2$ independence tests, and ANOVA with Tukey's HSD post-hoc testing.
+* **IDSSC 2024 (International Data Science and Statistics Congress)** — *Oral Presentation*  
+  Multi-class Random Forest modeling with SMOTE resampled imbalanced data; evaluated entropy-based node splits, precision/recall trade-offs, and classification performance.
+* **UYIK 2024 (V. International Applied Statistics Congress)** — *Proceedings Paper*  
+  Empirical modeling of consumer preferences via two-sample hypothesis tests and parametric correlation matrices.
 
 ---
 
 ### Quantitative & Modeling Projects
 
-* **[bitcoin-macro-blueml](https://github.com/mikbalyilmaz/bitcoin-macro-blueml):** Gauss-Markov (BLUE) diagnostic testing under multicollinearity and heteroskedasticity; comparative benchmarking of classical OLS against non-linear Random Forest regressions[cite: 17].
-* **[Return-Dynamics-ASELSAN](https://github.com/mikbalyilmaz/Return-Dynamics-ASELSAN):** Equity return dynamics under sovereign risk factors evaluated through multivariate ARX frameworks and predictive ML architectures[cite: 17].
-* **[ADF-Unit-Root-ARMA](https://github.com/mikbalyilmaz/ADF-Unit-Root-ARMA_CO2-gold):** Automated Augmented Dickey-Fuller (ADF) stationarity pipelines with ARMA modeling and residual error diagnostics on macro indicators[cite: 17].
-* **[LCG-RANN-Classification](https://github.com/mikbalyilmaz/LCG-RANN-Classification):** Modular Linear Congruential Generator (LCG) satisfying Hull-Dobell conditions in R; feedforward artificial neural network (ANN) pipelines for classification tasks in Python[cite: 17].
+* **[bitcoin-macro-blueml](https://github.com/mikbalyilmaz/bitcoin-macro-blueml):** Gauss-Markov (BLUE) diagnostic testing under multicollinearity and heteroskedasticity; comparative benchmarking of classical OLS against non-linear Random Forest regressions.
+* **[Return-Dynamics-ASELSAN](https://github.com/mikbalyilmaz/Return-Dynamics-ASELSAN):** Equity return dynamics under sovereign risk factors evaluated through multivariate ARX frameworks and predictive ML architectures.
+* **[ADF-Unit-Root-ARMA](https://github.com/mikbalyilmaz/ADF-Unit-Root-ARMA_CO2-gold):** Automated Augmented Dickey-Fuller (ADF) stationarity pipelines with ARMA modeling and residual error diagnostics on macro indicators.
+* **[LCG-RANN-Classification](https://github.com/mikbalyilmaz/LCG-RANN-Classification):** Modular Linear Congruential Generator (LCG) satisfying Hull-Dobell conditions in R; feedforward artificial neural network (ANN) pipelines for classification tasks in Python.
 
 ---
 
 ### Technical Competencies
 
-* **Languages & Analytics:** Python (`statsmodels`, `scikit-learn`, `pandas`, `numpy`), R, SQL, Stata, SPSS, EViews, MATLAB, LaTeX[cite: 17]
-* **Methodologies:** Time Series Analysis (ADF, ARMA, ARX), Parametric/Non-Parametric Hypothesis Testing, Regression Diagnostics, Machine Learning (Random Forests, Decision Trees, ANN), Monte Carlo / LCG Simulation[cite: 17]
-* **Spoken Languages:** Turkish (Native), English (C1 Advanced), German (B1 Intermediate)[cite: 17]
+* **Languages & Analytics:** Python (`statsmodels`, `scikit-learn`, `pandas`, `numpy`), R, SQL, Stata, SPSS, EViews, MATLAB, LaTeX
+* **Methodologies:** Time Series Analysis (ADF, ARMA, ARX), Parametric/Non-Parametric Hypothesis Testing, Regression Diagnostics, Machine Learning (Random Forests, Decision Trees, ANN), Monte Carlo / LCG Simulation
+* **Spoken Languages:** Turkish (Native), English (C1 Advanced), German (B1 Intermediate)
 
 ---
 
