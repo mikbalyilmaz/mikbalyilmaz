@@ -48,10 +48,10 @@ Econometrician with a research focus on time-series econometrics, empirical stat
 
 ### Quantitative & Modeling Projects
 
-* **[bitcoin-macro-blueml](https://github.com/mikbalyilmaz/bitcoin-macro-blueml):** Gauss-Markov (BLUE) diagnostic testing under multicollinearity and heteroskedasticity; comparative benchmarking of classical OLS against non-linear Random Forest regressions.
-* **[Return-Dynamics-ASELSAN](https://github.com/mikbalyilmaz/Return-Dynamics-ASELSAN):** Equity return dynamics under sovereign risk factors evaluated through multivariate ARX frameworks and predictive ML architectures.
-* **[ADF-Unit-Root-ARMA](https://github.com/mikbalyilmaz/ADF-Unit-Root-ARMA_CO2-gold):** Automated Augmented Dickey-Fuller (ADF) stationarity pipelines with ARMA modeling and residual error diagnostics on macro indicators.
-* **[LCG-RANN-Classification](https://github.com/mikbalyilmaz/LCG-RANN-Classification):** Modular Linear Congruential Generator (LCG) satisfying Hull-Dobell conditions in R; feedforward artificial neural network (ANN) pipelines for classification tasks in Python.
+* **Macro-Financial Modeling (BLUE vs. ML):** Gauss-Markov (BLUE) diagnostic testing under multicollinearity and heteroskedasticity; comparative benchmarking of classical OLS against non-linear Random Forest regressions.
+* **Return Dynamics Under Risk Factors (ASELSAN Case Study):** Equity return dynamics under sovereign risk factors evaluated through multivariate ARX frameworks and predictive ML architectures.
+* **Time Series Stationarity Pipelines (ADF & ARMA):** Automated Augmented Dickey-Fuller (ADF) stationarity pipelines with ARMA modeling and residual error diagnostics on macro indicators.
+* **Algorithmic Simulations & Statistical Computing:** Modular Linear Congruential Generator (LCG) satisfying Hull-Dobell conditions in R; feedforward artificial neural network (ANN) pipelines for classification tasks in Python.
 
 ---
 
