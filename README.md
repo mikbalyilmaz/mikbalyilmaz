@@ -19,13 +19,13 @@
 
 ### Chosen from the list today;
 
-<a href="https://www.youtube.com/watch?v=wcuw_3DRlUs" target="_blank" rel="noopener noreferrer">
-<img src="https://img.youtube.com/vi/wcuw_3DRlUs/maxresdefault.jpg" width="320" alt="Fikret Kızılok - Gönül"/>
+<a href="https://www.youtube.com/watch?v=jp_Hm3jrQV0" target="_blank" rel="noopener noreferrer">
+<img src="https://img.youtube.com/vi/jp_Hm3jrQV0/maxresdefault.jpg" width="320" alt="Sara Qədimova — Küsüb Getdi (Rəsmi Audio)"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=wcuw_3DRlUs" target="_blank" rel="noopener noreferrer">
-<b>Fikret Kızılok - Gönül</b>
+<a href="https://www.youtube.com/watch?v=jp_Hm3jrQV0" target="_blank" rel="noopener noreferrer">
+<b>Sara Qədimova — Küsüb Getdi (Rəsmi Audio)</b>
 </a>
 
 
