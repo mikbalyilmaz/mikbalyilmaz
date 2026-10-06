@@ -19,13 +19,13 @@
 
 ### Chosen from the list today;
 
-<a href="https://www.youtube.com/watch?v=-Bxpm0EmOMU&list=RD-Bxpm0EmOMU&start_radio=1" target="_blank" rel="noopener noreferrer">
-<img src="https://img.youtube.com/vi/-Bxpm0EmOMU/maxresdefault.jpg" width="320" alt="Debussy: Clair de lune | Menahem Pressler, piano"/>
+<a href="https://www.youtube.com/watch?v=wcuw_3DRlUs&list=RDwcuw_3DRlUs&start_radio=1" target="_blank" rel="noopener noreferrer">
+<img src="https://img.youtube.com/vi/wcuw_3DRlUs/maxresdefault.jpg" width="320" alt="Fikret Kızılok - Gönül"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=-Bxpm0EmOMU&list=RD-Bxpm0EmOMU&start_radio=1" target="_blank" rel="noopener noreferrer">
-<b>Debussy: Clair de lune | Menahem Pressler, piano</b>
+<a href="https://www.youtube.com/watch?v=wcuw_3DRlUs&list=RDwcuw_3DRlUs&start_radio=1" target="_blank" rel="noopener noreferrer">
+<b>Fikret Kızılok - Gönül</b>
 </a>
 
 
