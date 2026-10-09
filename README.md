@@ -19,13 +19,13 @@
 
 ### Chosen from the list today;
 
-<a href="https://www.youtube.com/watch?v=wcuw_3DRlUs&list=RDwcuw_3DRlUs&start_radio=1" target="_blank" rel="noopener noreferrer">
-<img src="https://img.youtube.com/vi/wcuw_3DRlUs/maxresdefault.jpg" width="320" alt="Fikret Kızılok - Gönül"/>
+<a href="https://www.youtube.com/watch?v=F9ey3ErMIKs&list=RDF9ey3ErMIKs&start_radio=1" target="_blank" rel="noopener noreferrer">
+<img src="https://img.youtube.com/vi/F9ey3ErMIKs/maxresdefault.jpg" width="320" alt="Dede Efendi - Ey Büt-i Nev-Edâ Olmuşum Mübtelâ"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=wcuw_3DRlUs&list=RDwcuw_3DRlUs&start_radio=1" target="_blank" rel="noopener noreferrer">
-<b>Fikret Kızılok - Gönül</b>
+<a href="https://www.youtube.com/watch?v=F9ey3ErMIKs&list=RDF9ey3ErMIKs&start_radio=1" target="_blank" rel="noopener noreferrer">
+<b>Dede Efendi - Ey Büt-i Nev-Edâ Olmuşum Mübtelâ</b>
 </a>
 
 
