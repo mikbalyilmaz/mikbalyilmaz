@@ -20,12 +20,12 @@
 ### Chosen from the list today;
 
 <a href="https://www.youtube.com/watch?v=a-u-HmJqYIg&list=RDa-u-HmJqYIg&start_radio=1" target="_blank" rel="noopener noreferrer">
-<img src="https://img.youtube.com/vi/a-u-HmJqYIg/maxresdefault.jpg" width="320" alt="1) Neyzen Niyazi Sayın & Tanbûri Necdet Yaşar"/>
+<img src="https://img.youtube.com/vi/a-u-HmJqYIg/hqdefault.jpg" width="320" alt="Neyzen Niyazi Sayın & Tanbûri Necdet Yaşar"/>
 </a>
 <br/>
 🎵
 <a href="https://www.youtube.com/watch?v=a-u-HmJqYIg&list=RDa-u-HmJqYIg&start_radio=1" target="_blank" rel="noopener noreferrer">
-<b>1) Neyzen Niyazi Sayın & Tanbûri Necdet Yaşar</b>
+<b>Neyzen Niyazi Sayın & Tanbûri Necdet Yaşar</b>
 </a>
 
 
