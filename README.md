@@ -19,13 +19,13 @@
 
 ### Chosen from the list today;
 
-<a href="https://www.youtube.com/watch?v=F9ey3ErMIKs&list=RDF9ey3ErMIKs&start_radio=1" target="_blank" rel="noopener noreferrer">
-<img src="https://img.youtube.com/vi/F9ey3ErMIKs/maxresdefault.jpg" width="320" alt="Dede Efendi - Ey Büt-i Nev-Edâ Olmuşum Mübtelâ"/>
+<a href="https://www.youtube.com/watch?v=a-u-HmJqYIg&list=RDa-u-HmJqYIg&start_radio=1" target="_blank" rel="noopener noreferrer">
+<img src="https://img.youtube.com/vi/a-u-HmJqYIg/maxresdefault.jpg" width="320" alt="1) Neyzen Niyazi Sayın & Tanbûri Necdet Yaşar"/>
 </a>
 <br/>
 🎵
-<a href="https://www.youtube.com/watch?v=F9ey3ErMIKs&list=RDF9ey3ErMIKs&start_radio=1" target="_blank" rel="noopener noreferrer">
-<b>Dede Efendi - Ey Büt-i Nev-Edâ Olmuşum Mübtelâ</b>
+<a href="https://www.youtube.com/watch?v=a-u-HmJqYIg&list=RDa-u-HmJqYIg&start_radio=1" target="_blank" rel="noopener noreferrer">
+<b>1) Neyzen Niyazi Sayın & Tanbûri Necdet Yaşar</b>
 </a>
 
 
