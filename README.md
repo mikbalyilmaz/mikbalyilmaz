@@ -47,11 +47,11 @@ Languages: Turkish (native), English.
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=a-u-HmJqYIg">
-  <img src="https://img.youtube.com/vi/a-u-HmJqYIg/mqdefault.jpg" width="200" alt="1) Neyzen Niyazi Sayın & Tanbûri Necdet Yaşar">
+<a href="https://www.youtube.com/watch?v=nF7yuNg_zWE">
+  <img src="https://img.youtube.com/vi/nF7yuNg_zWE/mqdefault.jpg" width="200" alt="Sade - King Of Sorrow - Official - 2001">
 </a>
 
-**2026-10-10**: [1) Neyzen Niyazi Sayın & Tanbûri Necdet Yaşar](https://www.youtube.com/watch?v=a-u-HmJqYIg)
+**2026-10-11**: [Sade - King Of Sorrow - Official - 2001](https://www.youtube.com/watch?v=nF7yuNg_zWE) · SadeVEVO
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
