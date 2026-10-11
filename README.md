@@ -41,3 +41,17 @@ on macroeconomic series; a feedforward neural network for classification.
 
 Python (NumPy, pandas, statsmodels, scikit-learn), R, Stata, EViews, SPSS, MATLAB, SQL, LaTeX.
 Languages: Turkish (native), English.
+
+---
+
+### Daily music log
+
+<!-- MUSICLOG:START -->
+<a href="https://www.youtube.com/watch?v=a-u-HmJqYIg">
+  <img src="https://img.youtube.com/vi/a-u-HmJqYIg/mqdefault.jpg" width="200" alt="1) Neyzen Niyazi Sayın & Tanbûri Necdet Yaşar">
+</a>
+
+**2026-10-10**: [1) Neyzen Niyazi Sayın & Tanbûri Necdet Yaşar](https://www.youtube.com/watch?v=a-u-HmJqYIg)
+<!-- MUSICLOG:END -->
+
+The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
