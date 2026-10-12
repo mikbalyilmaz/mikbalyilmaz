@@ -47,11 +47,11 @@ Languages: Turkish (native), English.
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=nF7yuNg_zWE">
-  <img src="https://img.youtube.com/vi/nF7yuNg_zWE/mqdefault.jpg" width="200" alt="Sade - King Of Sorrow - Official - 2001">
+<a href="https://www.youtube.com/watch?v=niXNQ5dEcEA">
+  <img src="https://img.youtube.com/vi/niXNQ5dEcEA/mqdefault.jpg" width="200" alt="ABC">
 </a>
 
-**2026-10-11**: [Sade - King Of Sorrow - Official - 2001](https://www.youtube.com/watch?v=nF7yuNg_zWE) · SadeVEVO
+**2026-10-12**: [ABC](https://www.youtube.com/watch?v=niXNQ5dEcEA) · Jackson 5 - Topic
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
