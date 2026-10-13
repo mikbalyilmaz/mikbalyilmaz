@@ -3,7 +3,7 @@
 I have a B.S. in Econometrics from Ankara Hacı Bayram Veli University and am preparing for graduate study. My interests
 are time-series and financial econometrics, statistical computing and simulation, and applied machine learning.
 
-[CV (PDF)](Muhammed_Ikbal_Yilmaz_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/muhammed-ikbal-yilmaz-36622a276) · myucanlar@gmail.com
+[Website](https://muhammedikbalyilmaz.com) · [CV (PDF)](Muhammed_Ikbal_Yilmaz_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/muhammed-ikbal-yilmaz-36622a276) · myucanlar@gmail.com
 
 ---
 
@@ -77,7 +77,7 @@ forest regression; a feedforward neural network for classification.
 ### Tools
 
 Python (NumPy, pandas, statsmodels, SciPy, scikit-learn), R, Stata, EViews, SPSS, MATLAB, SQL, LaTeX.
-Languages: Turkish (native), English.
+Languages: Turkish, English.
 
 ---
 
