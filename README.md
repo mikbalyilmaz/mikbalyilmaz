@@ -84,11 +84,11 @@ Languages: Turkish, English.
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=S-Xm7s9eGxU">
-  <img src="https://img.youtube.com/vi/S-Xm7s9eGxU/mqdefault.jpg" width="200" alt="Erik Satie - Gymnopédie No.1">
+<a href="https://www.youtube.com/watch?v=V5QukAC-jqE">
+  <img src="https://img.youtube.com/vi/V5QukAC-jqE/mqdefault.jpg" width="200" alt="Catch The Rainbow">
 </a>
 
-**2026-10-14**: [Erik Satie - Gymnopédie No.1](https://www.youtube.com/watch?v=S-Xm7s9eGxU) · DistantMirrors
+**2026-10-15**: [Catch The Rainbow](https://www.youtube.com/watch?v=V5QukAC-jqE) · Rainbow - Topic
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
