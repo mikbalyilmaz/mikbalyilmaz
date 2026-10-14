@@ -84,11 +84,11 @@ Languages: Turkish, English.
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=ak6tttHk_R8">
-  <img src="https://img.youtube.com/vi/ak6tttHk_R8/mqdefault.jpg" width="200" alt="The Five Satins - In The Still Of The Night (1956) 4K">
+<a href="https://www.youtube.com/watch?v=S-Xm7s9eGxU">
+  <img src="https://img.youtube.com/vi/S-Xm7s9eGxU/mqdefault.jpg" width="200" alt="Erik Satie - Gymnopédie No.1">
 </a>
 
-**2026-10-14**: [The Five Satins - In The Still Of The Night (1956) 4K](https://www.youtube.com/watch?v=ak6tttHk_R8) · Classic Hits Studio
+**2026-10-14**: [Erik Satie - Gymnopédie No.1](https://www.youtube.com/watch?v=S-Xm7s9eGxU) · DistantMirrors
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
