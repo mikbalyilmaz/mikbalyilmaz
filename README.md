@@ -84,11 +84,11 @@ Languages: Turkish, English.
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=V5QukAC-jqE">
-  <img src="https://img.youtube.com/vi/V5QukAC-jqE/mqdefault.jpg" width="200" alt="Catch The Rainbow">
+<a href="https://www.youtube.com/watch?v=7v8zxoEoA_Q">
+  <img src="https://img.youtube.com/vi/7v8zxoEoA_Q/mqdefault.jpg" width="200" alt="Vivaldi : La Follia">
 </a>
 
-**2026-10-15**: [Catch The Rainbow](https://www.youtube.com/watch?v=V5QukAC-jqE) · Rainbow - Topic
+**2026-10-15**: [Vivaldi : La Follia](https://www.youtube.com/watch?v=7v8zxoEoA_Q) · Le Lutin d'Ecouves
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
