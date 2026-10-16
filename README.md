@@ -84,11 +84,11 @@ Languages: Turkish, English.
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=7v8zxoEoA_Q">
-  <img src="https://img.youtube.com/vi/7v8zxoEoA_Q/mqdefault.jpg" width="200" alt="Vivaldi : La Follia">
+<a href="https://www.youtube.com/watch?v=XNzKZ7lJRUc">
+  <img src="https://img.youtube.com/vi/XNzKZ7lJRUc/mqdefault.jpg" width="200" alt="The Jubalaires - The Preacher And The Bear">
 </a>
 
-**2026-10-15**: [Vivaldi : La Follia](https://www.youtube.com/watch?v=7v8zxoEoA_Q) · Le Lutin d'Ecouves
+**2026-10-16**: [The Jubalaires - The Preacher And The Bear](https://www.youtube.com/watch?v=XNzKZ7lJRUc) · SbrPL
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
