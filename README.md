@@ -84,11 +84,11 @@ Languages: Turkish, English.
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=XNzKZ7lJRUc">
-  <img src="https://img.youtube.com/vi/XNzKZ7lJRUc/mqdefault.jpg" width="200" alt="The Jubalaires - The Preacher And The Bear">
+<a href="https://www.youtube.com/watch?v=NldPFVKYmiw">
+  <img src="https://img.youtube.com/vi/NldPFVKYmiw/mqdefault.jpg" width="200" alt="Frank Sinatra - The Girl From Ipanema ft. Antonio Carlos Jobim | A Man And His Music (1967)">
 </a>
 
-**2026-10-16**: [The Jubalaires - The Preacher And The Bear](https://www.youtube.com/watch?v=XNzKZ7lJRUc) · SbrPL
+**2026-10-18**: [Frank Sinatra - The Girl From Ipanema ft. Antonio Carlos Jobim | A Man And His Music (1967)](https://www.youtube.com/watch?v=NldPFVKYmiw) · Frank Sinatra
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
