@@ -84,11 +84,11 @@ Languages: Turkish, English.
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=NldPFVKYmiw">
-  <img src="https://img.youtube.com/vi/NldPFVKYmiw/mqdefault.jpg" width="200" alt="Frank Sinatra - The Girl From Ipanema ft. Antonio Carlos Jobim | A Man And His Music (1967)">
+<a href="https://www.youtube.com/watch?v=Sek1vLw3s20">
+  <img src="https://img.youtube.com/vi/Sek1vLw3s20/mqdefault.jpg" width="200" alt="Frank Sinatra - Strangers In The Night (Audio)">
 </a>
 
-**2026-10-18**: [Frank Sinatra - The Girl From Ipanema ft. Antonio Carlos Jobim | A Man And His Music (1967)](https://www.youtube.com/watch?v=NldPFVKYmiw) · Frank Sinatra
+**2026-10-20**: [Frank Sinatra - Strangers In The Night (Audio)](https://www.youtube.com/watch?v=Sek1vLw3s20) · FrankSinatraVEVO
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
