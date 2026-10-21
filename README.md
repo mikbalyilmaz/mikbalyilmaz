@@ -1,7 +1,7 @@
 # Muhammed İkbal Yılmaz
 
 I have a B.S. in Econometrics from Ankara Hacı Bayram Veli University and am preparing for graduate study. My interests
-are time-series and financial econometrics, statistical computing and simulation, and applied machine learning.
+are econometrics & statistics, data analysis, macroeconomics.
 
 [Website](https://muhammedikbalyilmaz.com) · [CV (PDF)](Muhammed_Ikbal_Yilmaz_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/muhammed-ikbal-yilmaz-36622a276) · myucanlar@gmail.com
 
