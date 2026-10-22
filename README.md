@@ -84,11 +84,11 @@ Languages: Turkish, English.
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=MfTjz6emd7c">
-  <img src="https://img.youtube.com/vi/MfTjz6emd7c/mqdefault.jpg" width="200" alt="Giacinto Scelsi - Quattro Pezzi (w/ score) (for orchestra) (1959)">
+<a href="https://www.youtube.com/watch?v=YGclSMTx7Eg">
+  <img src="https://img.youtube.com/vi/YGclSMTx7Eg/mqdefault.jpg" width="200" alt="Georgs Pelecis - Nevertheless - Gidon Kremer">
 </a>
 
-**2026-10-22**: [Giacinto Scelsi - Quattro Pezzi (w/ score) (for orchestra) (1959)](https://www.youtube.com/watch?v=MfTjz6emd7c) · belanna000
+**2026-10-22**: [Georgs Pelecis - Nevertheless - Gidon Kremer](https://www.youtube.com/watch?v=YGclSMTx7Eg) · Видео
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
