@@ -84,11 +84,11 @@ Languages: Turkish, English.
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=Sek1vLw3s20">
-  <img src="https://img.youtube.com/vi/Sek1vLw3s20/mqdefault.jpg" width="200" alt="Frank Sinatra - Strangers In The Night (Audio)">
+<a href="https://www.youtube.com/watch?v=MfTjz6emd7c">
+  <img src="https://img.youtube.com/vi/MfTjz6emd7c/mqdefault.jpg" width="200" alt="Giacinto Scelsi - Quattro Pezzi (w/ score) (for orchestra) (1959)">
 </a>
 
-**2026-10-20**: [Frank Sinatra - Strangers In The Night (Audio)](https://www.youtube.com/watch?v=Sek1vLw3s20) · FrankSinatraVEVO
+**2026-10-22**: [Giacinto Scelsi - Quattro Pezzi (w/ score) (for orchestra) (1959)](https://www.youtube.com/watch?v=MfTjz6emd7c) · belanna000
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
