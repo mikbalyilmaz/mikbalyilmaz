@@ -84,11 +84,11 @@ Languages: Turkish, English.
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=YGclSMTx7Eg">
-  <img src="https://img.youtube.com/vi/YGclSMTx7Eg/mqdefault.jpg" width="200" alt="Georgs Pelecis - Nevertheless - Gidon Kremer">
+<a href="https://www.youtube.com/watch?v=FhKJgqxNDD8">
+  <img src="https://img.youtube.com/vi/FhKJgqxNDD8/mqdefault.jpg" width="200" alt="King Crimson - Starless (Live in Japan, 2015)">
 </a>
 
-**2026-10-22**: [Georgs Pelecis - Nevertheless - Gidon Kremer](https://www.youtube.com/watch?v=YGclSMTx7Eg) · Видео
+**2026-10-23**: [King Crimson - Starless (Live in Japan, 2015)](https://www.youtube.com/watch?v=FhKJgqxNDD8) · King Crimson
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
