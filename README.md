@@ -30,11 +30,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=FhKJgqxNDD8">
-  <img src="https://img.youtube.com/vi/FhKJgqxNDD8/mqdefault.jpg" width="200" alt="King Crimson - Starless (Live in Japan, 2015)">
+<a href="https://www.youtube.com/watch?v=F-k_Fr67bPQ">
+  <img src="https://img.youtube.com/vi/F-k_Fr67bPQ/mqdefault.jpg" width="200" alt="Erkin Koray - Cemalim (1974, High Quality)">
 </a>
 
-**2026-10-23**: [King Crimson - Starless (Live in Japan, 2015)](https://www.youtube.com/watch?v=FhKJgqxNDD8) · King Crimson
+**2026-10-24**: [Erkin Koray - Cemalim (1974, High Quality)](https://www.youtube.com/watch?v=F-k_Fr67bPQ) · Erkin Koray Official
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
