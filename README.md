@@ -20,9 +20,6 @@ Interests: economics/econometrics, statistics and data analysis.
 - [Naive-Summation](https://github.com/mikbalyilmaz/Naive-Summation): rounding error of floating-point summation (Python)
 - [linear-congruential-generator](https://github.com/mikbalyilmaz/linear-congruential-generator): period and quality of linear congruential generators (R)
 
-These repositories have tests, fixed seeds and a short project note; `NEWS.md` lists the corrections to the first
-version (`v1.0.0`).
-
 ### Tools
 
 Python, R, LaTeX · Languages: Turkish, English
