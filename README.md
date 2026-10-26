@@ -30,11 +30,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=F-k_Fr67bPQ">
-  <img src="https://img.youtube.com/vi/F-k_Fr67bPQ/mqdefault.jpg" width="200" alt="Erkin Koray - Cemalim (1974, High Quality)">
+<a href="https://www.youtube.com/watch?v=HixdH1346l0">
+  <img src="https://img.youtube.com/vi/HixdH1346l0/mqdefault.jpg" width="200" alt="The Jubalaires - Brother Bill">
 </a>
 
-**2026-10-24**: [Erkin Koray - Cemalim (1974, High Quality)](https://www.youtube.com/watch?v=F-k_Fr67bPQ) · Erkin Koray Official
+**2026-10-26**: [The Jubalaires - Brother Bill](https://www.youtube.com/watch?v=HixdH1346l0) · SbrPL
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
