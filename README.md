@@ -27,11 +27,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=31XSLHQa6Ro">
-  <img src="https://img.youtube.com/vi/31XSLHQa6Ro/mqdefault.jpg" width="200" alt="Manu Dibango, Courtney Pine - Aye Africa">
+<a href="https://www.youtube.com/watch?v=3pUdUX5Gagc">
+  <img src="https://img.youtube.com/vi/3pUdUX5Gagc/mqdefault.jpg" width="200" alt="Elizabeth Cotten - In the Sweet By and By">
 </a>
 
-**2026-10-27**: [Manu Dibango, Courtney Pine - Aye Africa](https://www.youtube.com/watch?v=31XSLHQa6Ro) · ramblingfox
+**2026-10-28**: [Elizabeth Cotten - In the Sweet By and By](https://www.youtube.com/watch?v=3pUdUX5Gagc) · Cornerstone Recordings
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
