@@ -27,11 +27,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=3pUdUX5Gagc">
-  <img src="https://img.youtube.com/vi/3pUdUX5Gagc/mqdefault.jpg" width="200" alt="Elizabeth Cotten - In the Sweet By and By">
+<a href="https://www.youtube.com/watch?v=igxDZfYYU2A">
+  <img src="https://img.youtube.com/vi/igxDZfYYU2A/mqdefault.jpg" width="200" alt="VIVALDI | Violin Concerto RV 275 in E minor | Vienna manuscript">
 </a>
 
-**2026-10-28**: [Elizabeth Cotten - In the Sweet By and By](https://www.youtube.com/watch?v=3pUdUX5Gagc) · Cornerstone Recordings
+**2026-10-30**: [VIVALDI | Violin Concerto RV 275 in E minor | Vienna manuscript](https://www.youtube.com/watch?v=igxDZfYYU2A) · Del Vivaldi
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
