@@ -27,11 +27,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=igxDZfYYU2A">
-  <img src="https://img.youtube.com/vi/igxDZfYYU2A/mqdefault.jpg" width="200" alt="VIVALDI | Violin Concerto RV 275 in E minor | Vienna manuscript">
+<a href="https://www.youtube.com/watch?v=W_WtVswVl1c">
+  <img src="https://img.youtube.com/vi/W_WtVswVl1c/mqdefault.jpg" width="200" alt="Max Romeo & Dennis Alcapone - Jordan River / King of Kings">
 </a>
 
-**2026-10-30**: [VIVALDI | Violin Concerto RV 275 in E minor | Vienna manuscript](https://www.youtube.com/watch?v=igxDZfYYU2A) · Del Vivaldi
+**2026-10-31**: [Max Romeo & Dennis Alcapone - Jordan River / King of Kings](https://www.youtube.com/watch?v=W_WtVswVl1c) · poachedeyes
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
