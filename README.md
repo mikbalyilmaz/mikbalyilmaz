@@ -27,11 +27,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=W_WtVswVl1c">
-  <img src="https://img.youtube.com/vi/W_WtVswVl1c/mqdefault.jpg" width="200" alt="Max Romeo & Dennis Alcapone - Jordan River / King of Kings">
+<a href="https://www.youtube.com/watch?v=62_bnGOIz6k">
+  <img src="https://img.youtube.com/vi/62_bnGOIz6k/mqdefault.jpg" width="200" alt="The Jubalaires – Noah 1946 | Restored, Colorized & Enhanced in HD">
 </a>
 
-**2026-10-31**: [Max Romeo & Dennis Alcapone - Jordan River / King of Kings](https://www.youtube.com/watch?v=W_WtVswVl1c) · poachedeyes
+**2026-11-01**: [The Jubalaires – Noah 1946 | Restored, Colorized & Enhanced in HD](https://www.youtube.com/watch?v=62_bnGOIz6k) · OLD TAPES
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
