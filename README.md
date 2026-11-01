@@ -27,11 +27,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=OmjAjK4Ma0I">
-  <img src="https://img.youtube.com/vi/OmjAjK4Ma0I/mqdefault.jpg" width="200" alt="suleyman kus dilin bilir dediler suleyman var suleymandan iceru">
+<a href="https://www.youtube.com/watch?v=x3xYXGMRRYk">
+  <img src="https://img.youtube.com/vi/x3xYXGMRRYk/mqdefault.jpg" width="200" alt="Paolo Nutini - Candy (Official Video)">
 </a>
 
-**2026-11-01**: [suleyman kus dilin bilir dediler suleyman var suleymandan iceru](https://www.youtube.com/watch?v=OmjAjK4Ma0I) · İlahi
+**2026-11-01**: [Paolo Nutini - Candy (Official Video)](https://www.youtube.com/watch?v=x3xYXGMRRYk) · Paolo Nutini
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
