@@ -27,11 +27,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=62_bnGOIz6k">
-  <img src="https://img.youtube.com/vi/62_bnGOIz6k/mqdefault.jpg" width="200" alt="The Jubalaires – Noah 1946 | Restored, Colorized & Enhanced in HD">
+<a href="https://www.youtube.com/watch?v=OmjAjK4Ma0I">
+  <img src="https://img.youtube.com/vi/OmjAjK4Ma0I/mqdefault.jpg" width="200" alt="suleyman kus dilin bilir dediler suleyman var suleymandan iceru">
 </a>
 
-**2026-11-01**: [The Jubalaires – Noah 1946 | Restored, Colorized & Enhanced in HD](https://www.youtube.com/watch?v=62_bnGOIz6k) · OLD TAPES
+**2026-11-01**: [suleyman kus dilin bilir dediler suleyman var suleymandan iceru](https://www.youtube.com/watch?v=OmjAjK4Ma0I) · İlahi
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
