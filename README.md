@@ -1,7 +1,7 @@
 # Muhammed İkbal Yılmaz
 
 B.S. in Econometrics, Ankara Hacı Bayram Veli University; preparing for graduate study.
-Interests: economics/econometrics, statistics and data analysis.
+Interests: Applied Econometrics | Time Series | Machine Learning
 
 [Website](https://muhammedikbalyilmaz.com) · [CV (PDF)](Muhammed_Ikbal_Yilmaz_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/muhammed-ikbal-yilmaz-36622a276) · myucanlar@gmail.com
 
