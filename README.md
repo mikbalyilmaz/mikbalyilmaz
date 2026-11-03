@@ -27,11 +27,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=AQ1sfP80Z9c">
-  <img src="https://img.youtube.com/vi/AQ1sfP80Z9c/mqdefault.jpg" width="200" alt="VIVALDI | Violin Sonata RV 12 in D minor | Manchester manuscript">
+<a href="https://www.youtube.com/watch?v=rTVjnBo96Ug">
+  <img src="https://img.youtube.com/vi/rTVjnBo96Ug/mqdefault.jpg" width="200" alt="Otis Redding - (Sittin' On) The Dock Of The Bay (Official Music Video)">
 </a>
 
-**2026-11-02**: [VIVALDI | Violin Sonata RV 12 in D minor | Manchester manuscript](https://www.youtube.com/watch?v=AQ1sfP80Z9c) · Del Vivaldi
+**2026-11-03**: [Otis Redding - (Sittin' On) The Dock Of The Bay (Official Music Video)](https://www.youtube.com/watch?v=rTVjnBo96Ug) · RHINO
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
