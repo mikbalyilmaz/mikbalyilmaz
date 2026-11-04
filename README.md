@@ -27,11 +27,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=rTVjnBo96Ug">
-  <img src="https://img.youtube.com/vi/rTVjnBo96Ug/mqdefault.jpg" width="200" alt="Otis Redding - (Sittin' On) The Dock Of The Bay (Official Music Video)">
+<a href="https://www.youtube.com/watch?v=OnFlx2Lnr9Q">
+  <img src="https://img.youtube.com/vi/OnFlx2Lnr9Q/mqdefault.jpg" width="200" alt="Dean Martin - That's Amore">
 </a>
 
-**2026-11-03**: [Otis Redding - (Sittin' On) The Dock Of The Bay (Official Music Video)](https://www.youtube.com/watch?v=rTVjnBo96Ug) · RHINO
+**2026-11-04**: [Dean Martin - That's Amore](https://www.youtube.com/watch?v=OnFlx2Lnr9Q) · NM Catalogue
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
