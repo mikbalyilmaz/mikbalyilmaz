@@ -27,11 +27,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=OnFlx2Lnr9Q">
-  <img src="https://img.youtube.com/vi/OnFlx2Lnr9Q/mqdefault.jpg" width="200" alt="Dean Martin - That's Amore">
+<a href="https://www.youtube.com/watch?v=UnPMoAb4y8U">
+  <img src="https://img.youtube.com/vi/UnPMoAb4y8U/mqdefault.jpg" width="200" alt="Otis Redding - Try A Little Tenderness">
 </a>
 
-**2026-11-04**: [Dean Martin - That's Amore](https://www.youtube.com/watch?v=OnFlx2Lnr9Q) · NM Catalogue
+**2026-11-05**: [Otis Redding - Try A Little Tenderness](https://www.youtube.com/watch?v=UnPMoAb4y8U) · Negro Paris
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
