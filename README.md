@@ -27,11 +27,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=RPv92ABFNP4">
-  <img src="https://img.youtube.com/vi/RPv92ABFNP4/mqdefault.jpg" width="200" alt="Rock Me Baby - Beverly &quot;Guitar&quot; Watkins w/the Rick Fowler Band, Foundry, Athens, Ga., 03/10/17">
+<a href="https://www.youtube.com/watch?v=09839DpTctU">
+  <img src="https://img.youtube.com/vi/09839DpTctU/mqdefault.jpg" width="200" alt="Eagles - Hotel California (Live 1977) (Official Video) [HD]">
 </a>
 
-**2026-11-06**: [Rock Me Baby - Beverly "Guitar" Watkins w/the Rick Fowler Band, Foundry, Athens, Ga., 03/10/17](https://www.youtube.com/watch?v=RPv92ABFNP4) · rottingtapes
+**2026-11-07**: [Eagles - Hotel California (Live 1977) (Official Video) \[HD\]](https://www.youtube.com/watch?v=09839DpTctU) · Eagles
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
