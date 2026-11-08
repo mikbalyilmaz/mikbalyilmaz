@@ -27,11 +27,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=09839DpTctU">
-  <img src="https://img.youtube.com/vi/09839DpTctU/mqdefault.jpg" width="200" alt="Eagles - Hotel California (Live 1977) (Official Video) [HD]">
+<a href="https://www.youtube.com/watch?v=w2jYjUiulMQ">
+  <img src="https://img.youtube.com/vi/w2jYjUiulMQ/mqdefault.jpg" width="200" alt="Manu Dibango - Soul Makossa">
 </a>
 
-**2026-11-07**: [Eagles - Hotel California (Live 1977) (Official Video) \[HD\]](https://www.youtube.com/watch?v=09839DpTctU) · Eagles
+**2026-11-08**: [Manu Dibango - Soul Makossa](https://www.youtube.com/watch?v=w2jYjUiulMQ) · M-YAMI
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
