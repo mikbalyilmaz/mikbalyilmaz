@@ -27,11 +27,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=w2jYjUiulMQ">
-  <img src="https://img.youtube.com/vi/w2jYjUiulMQ/mqdefault.jpg" width="200" alt="Manu Dibango - Soul Makossa">
+<a href="https://www.youtube.com/watch?v=5Ksp63RJuaU">
+  <img src="https://img.youtube.com/vi/5Ksp63RJuaU/mqdefault.jpg" width="200" alt="L'Impératrice ♙ PARFUM THÉRÉMINE">
 </a>
 
-**2026-11-08**: [Manu Dibango - Soul Makossa](https://www.youtube.com/watch?v=w2jYjUiulMQ) · M-YAMI
+**2026-11-09**: [L'Impératrice ♙ PARFUM THÉRÉMINE](https://www.youtube.com/watch?v=5Ksp63RJuaU) · L'Impératrice
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
