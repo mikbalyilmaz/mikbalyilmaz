@@ -27,11 +27,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=5Ksp63RJuaU">
-  <img src="https://img.youtube.com/vi/5Ksp63RJuaU/mqdefault.jpg" width="200" alt="L'Impératrice ♙ PARFUM THÉRÉMINE">
+<a href="https://www.youtube.com/watch?v=MAxdTSc_fts">
+  <img src="https://img.youtube.com/vi/MAxdTSc_fts/mqdefault.jpg" width="200" alt="Like It Is - Yusef Lateef (The Blue Yusef Lateef).wmv">
 </a>
 
-**2026-11-09**: [L'Impératrice ♙ PARFUM THÉRÉMINE](https://www.youtube.com/watch?v=5Ksp63RJuaU) · L'Impératrice
+**2026-11-10**: [Like It Is - Yusef Lateef (The Blue Yusef Lateef).wmv](https://www.youtube.com/watch?v=MAxdTSc_fts) · MrJoatman
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
