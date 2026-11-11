@@ -27,11 +27,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=MAxdTSc_fts">
-  <img src="https://img.youtube.com/vi/MAxdTSc_fts/mqdefault.jpg" width="200" alt="Like It Is - Yusef Lateef (The Blue Yusef Lateef).wmv">
+<a href="https://www.youtube.com/watch?v=3NFywQdeKSo">
+  <img src="https://img.youtube.com/vi/3NFywQdeKSo/mqdefault.jpg" width="200" alt="Sister Rosetta Tharpe - Didn't it rain, children">
 </a>
 
-**2026-11-10**: [Like It Is - Yusef Lateef (The Blue Yusef Lateef).wmv](https://www.youtube.com/watch?v=MAxdTSc_fts) · MrJoatman
+**2026-11-11**: [Sister Rosetta Tharpe - Didn't it rain, children](https://www.youtube.com/watch?v=3NFywQdeKSo) · cerinto
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
