@@ -27,11 +27,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=3NFywQdeKSo">
-  <img src="https://img.youtube.com/vi/3NFywQdeKSo/mqdefault.jpg" width="200" alt="Sister Rosetta Tharpe - Didn't it rain, children">
+<a href="https://www.youtube.com/watch?v=Li1dtJ6jC4w">
+  <img src="https://img.youtube.com/vi/Li1dtJ6jC4w/mqdefault.jpg" width="200" alt="Mills Brothers - Swing It, Sister">
 </a>
 
-**2026-11-11**: [Sister Rosetta Tharpe - Didn't it rain, children](https://www.youtube.com/watch?v=3NFywQdeKSo) · cerinto
+**2026-11-13**: [Mills Brothers - Swing It, Sister](https://www.youtube.com/watch?v=Li1dtJ6jC4w) · SbrPL
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
