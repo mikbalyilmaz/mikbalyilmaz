@@ -27,11 +27,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=Li1dtJ6jC4w">
-  <img src="https://img.youtube.com/vi/Li1dtJ6jC4w/mqdefault.jpg" width="200" alt="Mills Brothers - Swing It, Sister">
+<a href="https://www.youtube.com/watch?v=nr5ex_94vp0">
+  <img src="https://img.youtube.com/vi/nr5ex_94vp0/mqdefault.jpg" width="200" alt="MFÖ - Mecburen (Official Audio)">
 </a>
 
-**2026-11-13**: [Mills Brothers - Swing It, Sister](https://www.youtube.com/watch?v=Li1dtJ6jC4w) · SbrPL
+**2026-11-14**: [MFÖ - Mecburen (Official Audio)](https://www.youtube.com/watch?v=nr5ex_94vp0) · OSSİ MÜZİK
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
