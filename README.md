@@ -27,11 +27,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=nr5ex_94vp0">
-  <img src="https://img.youtube.com/vi/nr5ex_94vp0/mqdefault.jpg" width="200" alt="MFÖ - Mecburen (Official Audio)">
+<a href="https://www.youtube.com/watch?v=dvRwZga4hAE">
+  <img src="https://img.youtube.com/vi/dvRwZga4hAE/mqdefault.jpg" width="200" alt="B. B. King - The Thrill Is Gone. New York 1971">
 </a>
 
-**2026-11-14**: [MFÖ - Mecburen (Official Audio)](https://www.youtube.com/watch?v=nr5ex_94vp0) · OSSİ MÜZİK
+**2026-11-15**: [B. B. King - The Thrill Is Gone. New York 1971](https://www.youtube.com/watch?v=dvRwZga4hAE) · Farkle Berry
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
