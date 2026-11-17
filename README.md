@@ -27,11 +27,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=klPZIGQcrHA">
-  <img src="https://img.youtube.com/vi/klPZIGQcrHA/mqdefault.jpg" width="200" alt="Haendel - Sarabande">
+<a href="https://www.youtube.com/watch?v=vCHREyE5GzQ">
+  <img src="https://img.youtube.com/vi/vCHREyE5GzQ/mqdefault.jpg" width="200" alt="Beethoven - Symphony No.7 in A major op.92 - II, Allegretto">
 </a>
 
-**2026-11-16**: [Haendel - Sarabande](https://www.youtube.com/watch?v=klPZIGQcrHA) · JB F
+**2026-11-17**: [Beethoven - Symphony No.7 in A major op.92 - II, Allegretto](https://www.youtube.com/watch?v=vCHREyE5GzQ) · neuIlaryRheinKlange
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
