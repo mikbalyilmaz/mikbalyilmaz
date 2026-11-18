@@ -27,11 +27,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=vCHREyE5GzQ">
-  <img src="https://img.youtube.com/vi/vCHREyE5GzQ/mqdefault.jpg" width="200" alt="Beethoven - Symphony No.7 in A major op.92 - II, Allegretto">
+<a href="https://www.youtube.com/watch?v=3w_InVVk5KU">
+  <img src="https://img.youtube.com/vi/3w_InVVk5KU/mqdefault.jpg" width="200" alt="Chan chan">
 </a>
 
-**2026-11-17**: [Beethoven - Symphony No.7 in A major op.92 - II, Allegretto](https://www.youtube.com/watch?v=vCHREyE5GzQ) · neuIlaryRheinKlange
+**2026-11-18**: [Chan chan](https://www.youtube.com/watch?v=3w_InVVk5KU) · Compay Segundo - Topic
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
