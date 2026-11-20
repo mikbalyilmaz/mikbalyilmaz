@@ -27,11 +27,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=3w_InVVk5KU">
-  <img src="https://img.youtube.com/vi/3w_InVVk5KU/mqdefault.jpg" width="200" alt="Chan chan">
+<a href="https://www.youtube.com/watch?v=kcGFdnpf7To">
+  <img src="https://img.youtube.com/vi/kcGFdnpf7To/mqdefault.jpg" width="200" alt="Howlin' Wolf - Down In The Bottom (Live)">
 </a>
 
-**2026-11-18**: [Chan chan](https://www.youtube.com/watch?v=3w_InVVk5KU) · Compay Segundo - Topic
+**2026-11-20**: [Howlin' Wolf - Down In The Bottom (Live)](https://www.youtube.com/watch?v=kcGFdnpf7To) · HOWLINWOLFVEVO
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
