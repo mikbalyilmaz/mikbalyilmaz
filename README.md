@@ -24,11 +24,11 @@ Python, R, LaTeX · Languages: Turkish, English
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=kcGFdnpf7To">
-  <img src="https://img.youtube.com/vi/kcGFdnpf7To/mqdefault.jpg" width="200" alt="Howlin' Wolf - Down In The Bottom (Live)">
+<a href="https://www.youtube.com/watch?v=-iVgONy8kMY">
+  <img src="https://img.youtube.com/vi/-iVgONy8kMY/mqdefault.jpg" width="200" alt="Wes Montgomery - Here's That Rainy Day -  Live London 1965">
 </a>
 
-**2026-11-20**: [Howlin' Wolf - Down In The Bottom (Live)](https://www.youtube.com/watch?v=kcGFdnpf7To) · HOWLINWOLFVEVO
+**2026-11-21**: [Wes Montgomery - Here's That Rainy Day -  Live London 1965](https://www.youtube.com/watch?v=-iVgONy8kMY) · saag111
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
