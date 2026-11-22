@@ -9,11 +9,11 @@ Python, R, LaTeX
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=-iVgONy8kMY">
-  <img src="https://img.youtube.com/vi/-iVgONy8kMY/mqdefault.jpg" width="200" alt="Wes Montgomery - Here's That Rainy Day -  Live London 1965">
+<a href="https://www.youtube.com/watch?v=Nv2GgV34qIg">
+  <img src="https://img.youtube.com/vi/Nv2GgV34qIg/mqdefault.jpg" width="200" alt="Bill Evans &quot;Peace Piece&quot;">
 </a>
 
-**2026-11-21**: [Wes Montgomery - Here's That Rainy Day -  Live London 1965](https://www.youtube.com/watch?v=-iVgONy8kMY) · saag111
+**2026-11-22**: [Bill Evans "Peace Piece"](https://www.youtube.com/watch?v=Nv2GgV34qIg) · William Repicci
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
