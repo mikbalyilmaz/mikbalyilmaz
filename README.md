@@ -9,11 +9,11 @@ Python, R, LaTeX
 ### Daily music log
 
 <!-- MUSICLOG:START -->
-<a href="https://www.youtube.com/watch?v=Nv2GgV34qIg">
-  <img src="https://img.youtube.com/vi/Nv2GgV34qIg/mqdefault.jpg" width="200" alt="Bill Evans &quot;Peace Piece&quot;">
+<a href="https://www.youtube.com/watch?v=ElowaWp95Vc">
+  <img src="https://img.youtube.com/vi/ElowaWp95Vc/mqdefault.jpg" width="200" alt="Tenderly">
 </a>
 
-**2026-11-22**: [Bill Evans "Peace Piece"](https://www.youtube.com/watch?v=Nv2GgV34qIg) · William Repicci
+**2026-11-23**: [Tenderly](https://www.youtube.com/watch?v=ElowaWp95Vc) · Chet Baker - Topic
 <!-- MUSICLOG:END -->
 
 The full log since January 2026: [daily-musiclog](https://github.com/mikbalyilmaz/daily-musiclog).
